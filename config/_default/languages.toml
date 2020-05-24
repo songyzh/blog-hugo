@@ -1,0 +1,13 @@
+[zh]
+  title = "卓&东的小窝"
+  languageName = "中文"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/zh"
+
+# [ko]
+#   title = "Hugo Zzo Theme"
+#   languageName = "한국어"
+#   weight = 2
+#   languagedir = "ltr"
+#   contentdir = "content/ko"

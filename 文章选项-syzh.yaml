@@ -1,0 +1,43 @@
+---
+title: ""
+date: "2019-12-16T12:00:06+09:00"
+description: ""
+
+draft: false
+
+hideToc: false
+enableToc: true
+enableTocContent: false
+
+author: "卓"
+authorEmoji: ""
+authorImage: ""
+authorImageUrl: ""
+authorDesc: ""
+socialOptions:
+  email: "mailto:mailsyzh@gmail.com"
+  phone: ""
+  facebook: ""
+  twitter: ""
+  github: "https://github.com/songyzh"
+
+tags:
+  -
+categories:
+  -
+series:
+  -
+
+image: ""
+
+libraries:
+  - katex
+  - chart
+  - flowchartjs
+  - msc
+  - mathjax
+  - mermaid
+  - viz
+  - wavedrom
+---
+

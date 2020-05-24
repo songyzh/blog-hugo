@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Goroutine on 卓&amp;东的小窝</title>
+    <link>https://blog.syzh.fun/tags/goroutine/</link>
+    <description>Recent content in Goroutine on 卓&amp;东的小窝</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+        <atom:link href="https://blog.syzh.fun/tags/goroutine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Golang交替打印的几种实现方式</title>
+        <link>https://blog.syzh.fun/posts/syzh/golang%E4%BA%A4%E6%9B%BF%E6%89%93%E5%8D%B0%E7%9A%84%E5%87%A0%E7%A7%8D%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>https://blog.syzh.fun/posts/syzh/golang%E4%BA%A4%E6%9B%BF%E6%89%93%E5%8D%B0%E7%9A%84%E5%87%A0%E7%A7%8D%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F/</guid>
+        <description>提供了Golang交替打印的几个思路: 使用Goroutine, sync包中的WaitGroup和Cond 使用unbuffered channe</description>
+        
+        <dc:creator>卓</dc:creator>
+        <media:content url="https://blog.syzh.funhttps://tva1.sinaimg.cn/large/007S8ZIlgy1geome7841kj30jg0adt8y.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>后端</category>
+            
+          
+            
+              <category>Golang</category>
+            
+          
+            
+              <category>Goroutine</category>
+            
+          
+            
+              <category>GoChannel</category>
+            
+          
+            
+              <category>GoSync</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Golang踩坑总结-循环中使用Goroutine中捕获参数</title>
+        <link>https://blog.syzh.fun/posts/syzh/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93-%E5%BE%AA%E7%8E%AF%E4%B8%AD%E4%BD%BF%E7%94%A8goroutine%E4%B8%AD%E6%8D%95%E8%8E%B7%E5%8F%82%E6%95%B0/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>https://blog.syzh.fun/posts/syzh/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93-%E5%BE%AA%E7%8E%AF%E4%B8%AD%E4%BD%BF%E7%94%A8goroutine%E4%B8%AD%E6%8D%95%E8%8E%B7%E5%8F%82%E6%95%B0/</guid>
+        <description>问题表现 goroutine中捕获的循环变量, 都为循环最后的值 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 func main() { for i, v := range []string{&amp;#34;a&amp;#34;, &amp;#34;b&amp;#34;, &amp;#34;c&amp;#34;, &amp;#34;d&amp;#34;, &amp;#34;e&amp;#34;} { // goro</description>
+        
+        <dc:creator>卓</dc:creator>
+        <media:content url="https://blog.syzh.funhttps://tva1.sinaimg.cn/large/007S8ZIlgy1ger23ueqcgj30h00bcmxs.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>后端</category>
+            
+          
+            
+              <category>Golang</category>
+            
+          
+            
+              <category>踩坑</category>
+            
+          
+            
+              <category>Goroutine</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang踩坑总结</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

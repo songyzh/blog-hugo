@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on 卓&amp;东的小窝</title>
+    <link>https://blog.syzh.fun/tags/</link>
+    <description>Recent content in Tags on 卓&amp;东的小窝</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+        <atom:link href="https://blog.syzh.fun/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>GoChannel</title>
+        <link>https://blog.syzh.fun/tags/gochannel/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        
+        
+        <guid>https://blog.syzh.fun/tags/gochannel/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Golang</title>
+        <link>https://blog.syzh.fun/tags/golang/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        
+        
+        <guid>https://blog.syzh.fun/tags/golang/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Goroutine</title>
+        <link>https://blog.syzh.fun/tags/goroutine/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        
+        
+        <guid>https://blog.syzh.fun/tags/goroutine/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>GoSync</title>
+        <link>https://blog.syzh.fun/tags/gosync/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        
+        
+        <guid>https://blog.syzh.fun/tags/gosync/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>JavaScript</title>
+        <link>https://blog.syzh.fun/tags/javascript/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        
+        
+        <guid>https://blog.syzh.fun/tags/javascript/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>MacOS</title>
+        <link>https://blog.syzh.fun/tags/macos/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        
+        
+        <guid>https://blog.syzh.fun/tags/macos/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>前端</title>
+        <link>https://blog.syzh.fun/tags/%E5%89%8D%E7%AB%AF/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        
+        
+        <guid>https://blog.syzh.fun/tags/%E5%89%8D%E7%AB%AF/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>后端</title>
+        <link>https://blog.syzh.fun/tags/%E5%90%8E%E7%AB%AF/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        
+        
+        <guid>https://blog.syzh.fun/tags/%E5%90%8E%E7%AB%AF/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>垃圾回收</title>
+        <link>https://blog.syzh.fun/tags/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        
+        
+        <guid>https://blog.syzh.fun/tags/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>踩坑</title>
+        <link>https://blog.syzh.fun/tags/%E8%B8%A9%E5%9D%91/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        
+        
+        <guid>https://blog.syzh.fun/tags/%E8%B8%A9%E5%9D%91/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>闭包</title>
+        <link>https://blog.syzh.fun/tags/%E9%97%AD%E5%8C%85/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        
+        
+        <guid>https://blog.syzh.fun/tags/%E9%97%AD%E5%8C%85/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

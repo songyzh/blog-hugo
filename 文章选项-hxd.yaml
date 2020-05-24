@@ -1,0 +1,43 @@
+---
+title: ""
+date: "2019-12-16T12:00:06+09:00"
+description: ""
+
+draft: false
+
+hideToc: false
+enableToc: true
+enableTocContent: false
+
+author: "东"
+authorEmoji: ""
+authorImage: ""
+authorImageUrl: ""
+authorDesc: ""
+socialOptions:
+  email: "mailto:1619882712@qq.com"
+  phone: ""
+  facebook: ""
+  twitter: ""
+  github: "https://github.com/happyElina"
+
+tags:
+  -
+categories:
+  -
+series:
+  -
+
+image: ""
+
+libraries:
+  - katex
+  - chart
+  - flowchartjs
+  - msc
+  - mathjax
+  - mermaid
+  - viz
+  - wavedrom
+---
+

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>闭包 on 卓&amp;东的小窝</title>
+    <link>https://blog.syzh.fun/tags/%E9%97%AD%E5%8C%85/</link>
+    <description>Recent content in 闭包 on 卓&amp;东的小窝</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+        <atom:link href="https://blog.syzh.fun/tags/%E9%97%AD%E5%8C%85/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Golang踩坑总结-循环中使用闭包捕获参数</title>
+        <link>https://blog.syzh.fun/posts/syzh/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93-%E5%BE%AA%E7%8E%AF%E4%B8%AD%E4%BD%BF%E7%94%A8%E9%97%AD%E5%8C%85%E6%8D%95%E8%8E%B7%E5%8F%82%E6%95%B0/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>https://blog.syzh.fun/posts/syzh/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93-%E5%BE%AA%E7%8E%AF%E4%B8%AD%E4%BD%BF%E7%94%A8%E9%97%AD%E5%8C%85%E6%8D%95%E8%8E%B7%E5%8F%82%E6%95%B0/</guid>
+        <description>问题表现 闭包中捕获的循环变量, 都为循环最后的值 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 func main() { // 保存函数闭包 var s []func() for i, v := range []string{&amp;#34;a&amp;#34;, &amp;#34;b&amp;#34;, &amp;#34;c&amp;#34;, &amp;#34;d&amp;#34;, &amp;#34;e&amp;#34;} {</description>
+        
+        <dc:creator>卓</dc:creator>
+        <media:content url="https://blog.syzh.funhttps://tva1.sinaimg.cn/large/007S8ZIlgy1geon92s5ajj31e40p0dji.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>后端</category>
+            
+          
+            
+              <category>Golang</category>
+            
+          
+            
+              <category>踩坑</category>
+            
+          
+            
+              <category>闭包</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang踩坑总结</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
