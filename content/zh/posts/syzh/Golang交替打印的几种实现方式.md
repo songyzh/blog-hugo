@@ -1,5 +1,6 @@
 ---
 title: "Golang交替打印的几种实现方式"
+slug: "golang-goroutine-coordinate"
 date: "2020-05-24T12:00:06+08:00"
 description: ""
 

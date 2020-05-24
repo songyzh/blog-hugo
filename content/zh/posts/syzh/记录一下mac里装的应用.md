@@ -1,5 +1,6 @@
 ---
 title: "记录一下mac里装的应用"
+slug: "my-mac-app"
 date: "2020-05-24T12:00:06+08:00"
 description: ""
 

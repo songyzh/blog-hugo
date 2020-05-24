@@ -1,5 +1,6 @@
 ---
 title: "Golang避免使用struct tag"
+slug: "golang-reduce-json-db-tag"
 date: "2020-05-24T12:00:06+08:00"
 description: ""
 

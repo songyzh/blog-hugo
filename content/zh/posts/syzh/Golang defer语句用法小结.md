@@ -1,5 +1,6 @@
 ---
 title: "Golang defer语句用法小结"
+slug: "golang-defer"
 date: "2020-05-24T12:00:06+08:00"
 description: ""
 

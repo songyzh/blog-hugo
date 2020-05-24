@@ -1,5 +1,6 @@
 ---
 title: "Golang垃圾回收-三色算法概览"
+slug: "golang-garbage-collector-tricolor"
 date: "2020-05-24T12:00:06+08:00"
 description: ""
 

@@ -1,5 +1,6 @@
 ---
 title: "Golang踩坑总结-接口值是否等于nil"
+slug: "golang-pitfall-interface-value-nil"
 date: "2020-05-24T12:00:06+08:00"
 description: ""
 

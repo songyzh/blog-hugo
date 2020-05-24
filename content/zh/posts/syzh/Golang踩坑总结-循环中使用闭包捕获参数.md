@@ -1,5 +1,6 @@
 ---
 title: "Golang踩坑总结-循环中使用闭包捕获参数"
+slug: "golang-pitfall-for-closure"
 date: "2020-05-24T12:00:06+08:00"
 description: ""
 

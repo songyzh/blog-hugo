@@ -1,5 +1,6 @@
 ---
 title: "Golang踩坑总结-循环中使用Goroutine中捕获参数"
+slug: "golang-pitfall-for-goroutine"
 date: "2020-05-24T12:00:06+08:00"
 description: ""
 

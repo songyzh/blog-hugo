@@ -24,11 +24,11 @@
       
       <item>
         <title>Golang sync包用法小结</title>
-        <link>https://blog.syzh.fun/posts/syzh/golang-sync%E5%8C%85%E7%94%A8%E6%B3%95%E5%B0%8F%E7%BB%93/</link>
+        <link>https://blog.syzh.fun/posts/syzh/golang-sync/</link>
         <pubDate>Sun, 24 May 2020 12:00:06 +0800</pubDate>
         
         <atom:modified>Sun, 24 May 2020 12:00:06 +0800</atom:modified>
-        <guid>https://blog.syzh.fun/posts/syzh/golang-sync%E5%8C%85%E7%94%A8%E6%B3%95%E5%B0%8F%E7%BB%93/</guid>
+        <guid>https://blog.syzh.fun/posts/syzh/golang-sync/</guid>
         <description>sync包提供传统的内存访问的同步机制 WaitGroup 等待若干goroutine执行完毕 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33</description>
         
         <dc:creator>卓</dc:creator>
@@ -66,11 +66,11 @@
       
       <item>
         <title>Golang交替打印的几种实现方式</title>
-        <link>https://blog.syzh.fun/posts/syzh/golang%E4%BA%A4%E6%9B%BF%E6%89%93%E5%8D%B0%E7%9A%84%E5%87%A0%E7%A7%8D%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F/</link>
+        <link>https://blog.syzh.fun/posts/syzh/golang-goroutine-coordinate/</link>
         <pubDate>Sun, 24 May 2020 12:00:06 +0800</pubDate>
         
         <atom:modified>Sun, 24 May 2020 12:00:06 +0800</atom:modified>
-        <guid>https://blog.syzh.fun/posts/syzh/golang%E4%BA%A4%E6%9B%BF%E6%89%93%E5%8D%B0%E7%9A%84%E5%87%A0%E7%A7%8D%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F/</guid>
+        <guid>https://blog.syzh.fun/posts/syzh/golang-goroutine-coordinate/</guid>
         <description>提供了Golang交替打印的几个思路: 使用Goroutine, sync包中的WaitGroup和Cond 使用unbuffered channe</description>
         
         <dc:creator>卓</dc:creator>

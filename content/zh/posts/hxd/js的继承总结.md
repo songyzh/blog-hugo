@@ -1,5 +1,6 @@
 ---
 title: "JavaScript的继承总结"
+slug: "js-inheritance"
 date: "2020-05-24T12:00:06+08:00"
 description: ""
 
