@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 12:00:06 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
@@ -25,7 +25,7 @@
       <item>
         <title>GoChannel</title>
         <link>https://blog.syzh.fun/tags/gochannel/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 24 May 2020 12:00:06 +0800</pubDate>
         
         
         <guid>https://blog.syzh.fun/tags/gochannel/</guid>
@@ -43,7 +43,7 @@
       <item>
         <title>Golang</title>
         <link>https://blog.syzh.fun/tags/golang/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 24 May 2020 12:00:06 +0800</pubDate>
         
         
         <guid>https://blog.syzh.fun/tags/golang/</guid>
@@ -61,7 +61,7 @@
       <item>
         <title>Goroutine</title>
         <link>https://blog.syzh.fun/tags/goroutine/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 24 May 2020 12:00:06 +0800</pubDate>
         
         
         <guid>https://blog.syzh.fun/tags/goroutine/</guid>
@@ -79,7 +79,7 @@
       <item>
         <title>GoSync</title>
         <link>https://blog.syzh.fun/tags/gosync/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 24 May 2020 12:00:06 +0800</pubDate>
         
         
         <guid>https://blog.syzh.fun/tags/gosync/</guid>
@@ -97,7 +97,7 @@
       <item>
         <title>JavaScript</title>
         <link>https://blog.syzh.fun/tags/javascript/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 24 May 2020 12:00:06 +0800</pubDate>
         
         
         <guid>https://blog.syzh.fun/tags/javascript/</guid>
@@ -115,7 +115,7 @@
       <item>
         <title>MacOS</title>
         <link>https://blog.syzh.fun/tags/macos/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 24 May 2020 12:00:06 +0800</pubDate>
         
         
         <guid>https://blog.syzh.fun/tags/macos/</guid>
@@ -133,7 +133,7 @@
       <item>
         <title>前端</title>
         <link>https://blog.syzh.fun/tags/%E5%89%8D%E7%AB%AF/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 24 May 2020 12:00:06 +0800</pubDate>
         
         
         <guid>https://blog.syzh.fun/tags/%E5%89%8D%E7%AB%AF/</guid>
@@ -151,7 +151,7 @@
       <item>
         <title>后端</title>
         <link>https://blog.syzh.fun/tags/%E5%90%8E%E7%AB%AF/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 24 May 2020 12:00:06 +0800</pubDate>
         
         
         <guid>https://blog.syzh.fun/tags/%E5%90%8E%E7%AB%AF/</guid>
@@ -169,7 +169,7 @@
       <item>
         <title>垃圾回收</title>
         <link>https://blog.syzh.fun/tags/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 24 May 2020 12:00:06 +0800</pubDate>
         
         
         <guid>https://blog.syzh.fun/tags/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6/</guid>
@@ -187,7 +187,7 @@
       <item>
         <title>踩坑</title>
         <link>https://blog.syzh.fun/tags/%E8%B8%A9%E5%9D%91/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 24 May 2020 12:00:06 +0800</pubDate>
         
         
         <guid>https://blog.syzh.fun/tags/%E8%B8%A9%E5%9D%91/</guid>
@@ -205,7 +205,7 @@
       <item>
         <title>闭包</title>
         <link>https://blog.syzh.fun/tags/%E9%97%AD%E5%8C%85/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 24 May 2020 12:00:06 +0800</pubDate>
         
         
         <guid>https://blog.syzh.fun/tags/%E9%97%AD%E5%8C%85/</guid>

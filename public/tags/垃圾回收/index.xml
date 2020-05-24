@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 12:00:06 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
@@ -25,9 +25,9 @@
       <item>
         <title>Golang垃圾回收-三色算法概览</title>
         <link>https://blog.syzh.fun/posts/syzh/golang%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6-%E4%B8%89%E8%89%B2%E7%AE%97%E6%B3%95%E6%A6%82%E8%A7%88/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 24 May 2020 12:00:06 +0800</pubDate>
         
-        <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
+        <atom:modified>Sun, 24 May 2020 12:00:06 +0800</atom:modified>
         <guid>https://blog.syzh.fun/posts/syzh/golang%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6-%E4%B8%89%E8%89%B2%E7%AE%97%E6%B3%95%E6%A6%82%E8%A7%88/</guid>
         <description>三色标记-清除算法(tricolor mark-and-sweep algorithm) 把heap中的对象, 用黑色, 灰色, 白色进行标记 黑色对象: 已经以其为root执行过可达性分析的对象 灰色</description>
         

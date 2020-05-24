@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 12:00:06 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
@@ -25,9 +25,9 @@
       <item>
         <title>记录一下mac里装的应用</title>
         <link>https://blog.syzh.fun/posts/syzh/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8Bmac%E9%87%8C%E8%A3%85%E7%9A%84%E5%BA%94%E7%94%A8/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 24 May 2020 12:00:06 +0800</pubDate>
         
-        <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
+        <atom:modified>Sun, 24 May 2020 12:00:06 +0800</atom:modified>
         <guid>https://blog.syzh.fun/posts/syzh/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8Bmac%E9%87%8C%E8%A3%85%E7%9A%84%E5%BA%94%E7%94%A8/</guid>
         <description>mac app 快捷启动: alfred alfred基本算是mac必备app了, 主要用到的功能如下 快捷启动 文件搜索 snippets短语扩展 计算器 字典 密码管理1pas</description>
         

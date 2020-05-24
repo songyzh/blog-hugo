@@ -13,6 +13,156 @@
   </url>
   
   <url>
+    <loc>https://blog.syzh.fun/categories/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/tags/gochannel/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/tags/golang/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/posts/syzh/golang-defer%E8%AF%AD%E5%8F%A5%E7%94%A8%E6%B3%95%E5%B0%8F%E7%BB%93/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/posts/syzh/golang-sync%E5%8C%85%E7%94%A8%E6%B3%95%E5%B0%8F%E7%BB%93/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/posts/syzh/golang%E4%BA%A4%E6%9B%BF%E6%89%93%E5%8D%B0%E7%9A%84%E5%87%A0%E7%A7%8D%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/posts/syzh/golang%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6-%E4%B8%89%E8%89%B2%E7%AE%97%E6%B3%95%E6%A6%82%E8%A7%88/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/series/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/posts/syzh/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93-%E4%BD%BF%E7%94%A8%E4%B8%8B%E6%A0%87%E8%8E%B7%E5%8F%96%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%AD%97%E7%AC%A6/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/posts/syzh/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93-%E5%BE%AA%E7%8E%AF%E4%B8%AD%E4%BD%BF%E7%94%A8goroutine%E4%B8%AD%E6%8D%95%E8%8E%B7%E5%8F%82%E6%95%B0/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/posts/syzh/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93-%E5%BE%AA%E7%8E%AF%E4%B8%AD%E4%BD%BF%E7%94%A8%E9%97%AD%E5%8C%85%E6%8D%95%E8%8E%B7%E5%8F%82%E6%95%B0/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/posts/syzh/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93-%E6%8E%A5%E5%8F%A3%E5%80%BC%E6%98%AF%E5%90%A6%E7%AD%89%E4%BA%8Enil/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/posts/syzh/golang%E9%81%BF%E5%85%8D%E4%BD%BF%E7%94%A8struct-tag/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/tags/goroutine/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/tags/gosync/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/tags/javascript/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/posts/hxd/js%E7%9A%84%E7%BB%A7%E6%89%BF%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/tags/macos/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/posts/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/series/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/tags/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/tags/%E5%90%8E%E7%AB%AF/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/tags/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/posts/hxd/%E5%BE%AE%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/posts/syzh/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8Bmac%E9%87%8C%E8%A3%85%E7%9A%84%E5%BA%94%E7%94%A8/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/tags/%E8%B8%A9%E5%9D%91/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/tags/%E9%97%AD%E5%8C%85/</loc>
+    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.syzh.fun/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
@@ -40,156 +190,6 @@
   <url>
     <loc>https://blog.syzh.fun/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/categories/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/tags/gochannel/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/tags/golang/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/posts/syzh/golang-defer%E8%AF%AD%E5%8F%A5%E7%94%A8%E6%B3%95%E5%B0%8F%E7%BB%93/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/posts/syzh/golang-sync%E5%8C%85%E7%94%A8%E6%B3%95%E5%B0%8F%E7%BB%93/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/posts/syzh/golang%E4%BA%A4%E6%9B%BF%E6%89%93%E5%8D%B0%E7%9A%84%E5%87%A0%E7%A7%8D%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/posts/syzh/golang%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6-%E4%B8%89%E8%89%B2%E7%AE%97%E6%B3%95%E6%A6%82%E8%A7%88/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/series/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/posts/syzh/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93-%E4%BD%BF%E7%94%A8%E4%B8%8B%E6%A0%87%E8%8E%B7%E5%8F%96%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%AD%97%E7%AC%A6/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/posts/syzh/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93-%E5%BE%AA%E7%8E%AF%E4%B8%AD%E4%BD%BF%E7%94%A8goroutine%E4%B8%AD%E6%8D%95%E8%8E%B7%E5%8F%82%E6%95%B0/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/posts/syzh/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93-%E5%BE%AA%E7%8E%AF%E4%B8%AD%E4%BD%BF%E7%94%A8%E9%97%AD%E5%8C%85%E6%8D%95%E8%8E%B7%E5%8F%82%E6%95%B0/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/posts/syzh/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93-%E6%8E%A5%E5%8F%A3%E5%80%BC%E6%98%AF%E5%90%A6%E7%AD%89%E4%BA%8Enil/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/posts/syzh/golang%E9%81%BF%E5%85%8D%E4%BD%BF%E7%94%A8struct-tag/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/tags/goroutine/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/tags/gosync/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/tags/javascript/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/posts/hxd/js%E7%9A%84%E7%BB%A7%E6%89%BF%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/tags/macos/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/posts/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/series/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/tags/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/tags/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/tags/%E5%90%8E%E7%AB%AF/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/tags/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/posts/hxd/%E5%BE%AE%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/posts/syzh/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8Bmac%E9%87%8C%E8%A3%85%E7%9A%84%E5%BA%94%E7%94%A8/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/tags/%E8%B8%A9%E5%9D%91/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/tags/%E9%97%AD%E5%8C%85/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
