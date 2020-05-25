@@ -236,7 +236,7 @@
     var notAllowedTitleIds = null;
 
     
-    var tocFolding = JSON.parse("true");
+    var tocFolding = JSON.parse("false");
     
     var tocLevels = JSON.parse("[\"h2\",\"h3\",\"h4\"]");
     
@@ -1592,6 +1592,7 @@
 <li>最好支持搜索</li>
 <li>最好支持手机浏览</li>
 </ol>
+<h6 id="heading"></h6>
 <p>比较了一些, 把范围缩小在<a href="https://github.com/zzossig/hugo-theme-zzo">zzo</a>, <a href="https://github.com/olOwOlo/hugo-theme-even">even</a>, <a href="https://github.com/xianmin/hugo-theme-jane">jane</a>, 最终选择了zzo(zzo还支持相册, 演示, 陈列柜, 出版物等功能, 有兴趣的同学可以研究下)</p>
 <h4 id="评论系统的选择">评论系统的选择</h4>
 <p>本着纯静态的思想, 选择了<a href="https://utteranc.es/">utterances</a>, 基于GitHub issues. 缺点是需要登录GitHub授权, 以及可能需要科学上网</p>
@@ -2252,7 +2253,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var hideToc = JSON.parse("false");
     var tocFlexbox = document.querySelector('.toc__flexbox');
     var tocFlexboxOuter = document.querySelector('.toc__flexbox--outer');
-    var tocFolding = JSON.parse("true");
+    var tocFolding = JSON.parse("false");
     
     if ((enableToc || toc) && document.querySelector('.toc')) {
       var tableOfContentsElem = document.querySelector('.toc').querySelector('#TableOfContents');
@@ -2876,7 +2877,7 @@ document.addEventListener('DOMContentLoaded', function () {
           <h6 class="toc__title toc__title--outer" data-ani="true">目录</h6>
           
         </div>
-        <div class="toc toc__outer " data-dir="ltr" data-folding="true" data-ani="true">
+        <div class="toc toc__outer " data-dir="ltr" data-folding="false" data-ani="true">
           <nav id="TableOfContents">
   <ul>
     <li><a href="#虽然博客不多-写博客以来的时间不长-但是折腾并不少记录一下这个博客的折腾历程">虽然博客不多, 写博客以来的时间不长, 但是折腾并不少&hellip;记录一下这个博客的折腾历程</a>
