@@ -17,10 +17,8 @@ authorImageUrl: ""
 authorDesc: ""
 socialOptions:
   email: "mailto:1619882712@qq.com"
-  phone: ""
-  facebook: ""
-  twitter: ""
   github: "https://github.com/happyElina"
+  weibo: "https://weibo.com/u/2669254565"
 
 tags:
   - 前端

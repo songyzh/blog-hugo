@@ -17,10 +17,8 @@ authorImageUrl: ""
 authorDesc: ""
 socialOptions:
   email: "mailto:mailsyzh@gmail.com"
-  phone: ""
-  facebook: ""
-  twitter: ""
   github: "https://github.com/songyzh"
+  weibo: "https://weibo.com/u/1686093881"
 
 tags:
   - 后端

@@ -159,7 +159,7 @@ commento = false
   stack-exchange = ""
   telegram = ""
   steam = ""
-  weibo = ""
+  weibo = "https://weibo.com/u/1686093881"
   douban = ""
   csdn = ""
   gitlab = ""
@@ -191,11 +191,11 @@ commento = false
 # possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line"]
 [[share]]
   name = "weibo"
-  username = ""
 [[share]]
   name = "reddit"
 [[share]]
   name = "twitter"
+  username = "" # 目前只有twitter支持username, 可在 themes/zzo/layouts/partials/body/share.html 中搜索username看到
 
 [[footerLinks]]
   name = ""
