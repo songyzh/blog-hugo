@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 24 May 2020 12:00:06 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 21:00:06 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
@@ -21,6 +21,46 @@
     
     
 
+      
+      <item>
+        <title>webpack 学习总结 一</title>
+        <link>https://blog.syzh.fun/posts/hxd/webpack-notes-1/</link>
+        <pubDate>Mon, 01 Jun 2020 21:00:06 +0800</pubDate>
+        
+        <atom:modified>Mon, 01 Jun 2020 21:00:06 +0800</atom:modified>
+        <guid>https://blog.syzh.fun/posts/hxd/webpack-notes-1/</guid>
+        <description>webpack 是当前前端项目打包当中非常流行的打包框架，结合丰富的流程钩子函数、插件系统以及nodejs部分功能 给开发者提供了方便配置，易于扩展的打包工</description>
+        
+        <dc:creator>东</dc:creator>
+        <media:content url="https://blog.syzh.funhttps://tva1.sinaimg.cn/large/007S8ZIlgy1gfd4lqjr4hj30zk0ic0u1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>前端</category>
+            
+          
+            
+              <category>webpack</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+              <category>webpack学习总结</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Golang defer语句用法小结</title>
