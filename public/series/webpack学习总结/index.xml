@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>webpack学习总结 on 卓&amp;东的小窝</title>
+    <title>webpack学习总结 on 卓&amp;东的博客</title>
     <link>https://blog.syzh.fun/series/webpack%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</link>
-    <description>Recent content in webpack学习总结 on 卓&amp;东的小窝</description>
+    <description>Recent content in webpack学习总结 on 卓&amp;东的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
