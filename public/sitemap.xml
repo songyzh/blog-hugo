@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://blog.syzh.fun/posts/hxd/webpack%E9%A1%B9%E7%9B%AE%E6%89%93%E5%8C%85%E4%BC%98%E5%8C%96/</loc>
-    <lastmod>2020-07-02T17:00:06+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.syzh.fun/categories/</loc>
     <lastmod>2020-07-02T17:00:06+08:00</lastmod>
   </url>
@@ -44,6 +39,11 @@
   
   <url>
     <loc>https://blog.syzh.fun/series/webpack%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2020-07-02T17:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/posts/hxd/webpack%E9%A1%B9%E7%9B%AE%E6%89%93%E5%8C%85%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2020-07-02T17:00:06+08:00</lastmod>
   </url>
   
