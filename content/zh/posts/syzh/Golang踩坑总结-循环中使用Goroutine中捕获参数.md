@@ -57,7 +57,7 @@ libraries:
                 }()
             }
 
-            // 此处应该使用workgroup实现, 为了简单使用了sleep
+            // 此处应该使用waitgroup实现, 为了简单使用了sleep
             time.Sleep(1 * time.Second)
 
         }
