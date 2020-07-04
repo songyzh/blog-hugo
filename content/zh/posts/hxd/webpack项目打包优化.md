@@ -1,6 +1,6 @@
 ---
 title: "webpack项目打包优化"
-slug: ""
+slug: "webpack-optimization"
 date: "2020-07-02T17:00:06+08:00"
 description: ""
 

@@ -24,11 +24,11 @@
       
       <item>
         <title>webpack项目打包优化</title>
-        <link>https://blog.syzh.fun/posts/hxd/webpack%E9%A1%B9%E7%9B%AE%E6%89%93%E5%8C%85%E4%BC%98%E5%8C%96/</link>
+        <link>https://blog.syzh.fun/posts/hxd/webpack-optimization/</link>
         <pubDate>Thu, 02 Jul 2020 17:00:06 +0800</pubDate>
         
         <atom:modified>Thu, 02 Jul 2020 17:00:06 +0800</atom:modified>
-        <guid>https://blog.syzh.fun/posts/hxd/webpack%E9%A1%B9%E7%9B%AE%E6%89%93%E5%8C%85%E4%BC%98%E5%8C%96/</guid>
+        <guid>https://blog.syzh.fun/posts/hxd/webpack-optimization/</guid>
         <description>本文主要是对项目构建优化过程的记录，项目是基于vue3.0脚手架搭件的 首次打包 dist : 15.1 M 1 发现dist/img/icons 中有很多vue-cl</description>
         
         <dc:creator>东</dc:creator>

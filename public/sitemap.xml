@@ -14,22 +14,52 @@
   
   <url>
     <loc>https://blog.syzh.fun/categories/</loc>
-    <lastmod>2020-07-02T17:00:06+08:00</lastmod>
+    <lastmod>2020-07-04T21:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/tags/golang/</loc>
+    <lastmod>2020-07-04T21:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/series/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2020-07-04T21:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/posts/syzh/golang-pitfall-slice-as-argument/</loc>
+    <lastmod>2020-07-04T21:00:06+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.syzh.fun/posts/</loc>
-    <lastmod>2020-07-02T17:00:06+08:00</lastmod>
+    <lastmod>2020-07-04T21:00:06+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.syzh.fun/series/</loc>
-    <lastmod>2020-07-02T17:00:06+08:00</lastmod>
+    <lastmod>2020-07-04T21:00:06+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.syzh.fun/tags/</loc>
-    <lastmod>2020-07-02T17:00:06+08:00</lastmod>
+    <lastmod>2020-07-04T21:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/tags/%E5%90%8E%E7%AB%AF/</loc>
+    <lastmod>2020-07-04T21:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2020-07-04T21:00:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/tags/%E8%B8%A9%E5%9D%91/</loc>
+    <lastmod>2020-07-04T21:00:06+08:00</lastmod>
   </url>
   
   <url>
@@ -43,17 +73,12 @@
   </url>
   
   <url>
-    <loc>https://blog.syzh.fun/posts/hxd/webpack%E9%A1%B9%E7%9B%AE%E6%89%93%E5%8C%85%E4%BC%98%E5%8C%96/</loc>
+    <loc>https://blog.syzh.fun/posts/hxd/webpack-optimization/</loc>
     <lastmod>2020-07-02T17:00:06+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.syzh.fun/tags/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2020-07-02T17:00:06+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2020-07-02T17:00:06+08:00</lastmod>
   </url>
   
@@ -78,11 +103,6 @@
   </url>
   
   <url>
-    <loc>https://blog.syzh.fun/tags/golang/</loc>
-    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.syzh.fun/posts/syzh/golang-defer/</loc>
     <lastmod>2020-05-24T12:00:06+08:00</lastmod>
   </url>
@@ -99,11 +119,6 @@
   
   <url>
     <loc>https://blog.syzh.fun/posts/syzh/golang-garbage-collector-tricolor/</loc>
-    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/series/golang%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2020-05-24T12:00:06+08:00</lastmod>
   </url>
   
@@ -168,11 +183,6 @@
   </url>
   
   <url>
-    <loc>https://blog.syzh.fun/tags/%E5%90%8E%E7%AB%AF/</loc>
-    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.syzh.fun/tags/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6/</loc>
     <lastmod>2020-05-24T12:00:06+08:00</lastmod>
   </url>
@@ -189,11 +199,6 @@
   
   <url>
     <loc>https://blog.syzh.fun/posts/syzh/my-mac-app/</loc>
-    <lastmod>2020-05-24T12:00:06+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.syzh.fun/tags/%E8%B8%A9%E5%9D%91/</loc>
     <lastmod>2020-05-24T12:00:06+08:00</lastmod>
   </url>
   

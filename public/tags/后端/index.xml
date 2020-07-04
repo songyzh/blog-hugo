@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 24 May 2020 12:00:06 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2020 21:00:06 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
@@ -21,6 +21,50 @@
     
     
 
+      
+      <item>
+        <title>Golang踩坑总结-把slice传入函数</title>
+        <link>https://blog.syzh.fun/posts/syzh/golang-pitfall-slice-as-argument/</link>
+        <pubDate>Sat, 04 Jul 2020 21:00:06 +0800</pubDate>
+        
+        <atom:modified>Sat, 04 Jul 2020 21:00:06 +0800</atom:modified>
+        <guid>https://blog.syzh.fun/posts/syzh/golang-pitfall-slice-as-argument/</guid>
+        <description>问题表现: 把slice传入函数并修改, 所做的append操作在函数外会丢失 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 func main()</description>
+        
+        <dc:creator>卓</dc:creator>
+        <media:content url="https://blog.syzh.funhttps://tva1.sinaimg.cn/large/007S8ZIlgy1geon92s5ajj31e40p0dji.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>后端</category>
+            
+          
+            
+              <category>Golang</category>
+            
+          
+            
+              <category>踩坑</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang踩坑总结</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Golang defer语句用法小结</title>
