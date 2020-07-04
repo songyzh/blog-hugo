@@ -29,7 +29,7 @@ categories:
 series:
   - Golang踩坑总结
 
-image: "https://tva1.sinaimg.cn/large/007S8ZIlgy1geon92s5ajj31e40p0dji.jpg"
+image: "https://tva1.sinaimg.cn/large/007S8ZIlgy1ggf8un9t1ij30bm05cgll.jpg"
 
 libraries:
   - katex
