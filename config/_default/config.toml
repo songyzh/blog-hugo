@@ -1,5 +1,5 @@
 baseURL = "https://blog.syzh.fun" # The URL of your site.
-title = "卓&东的博客" # Title of your site
+title = "每天进步一点点" # Title of your site
 theme = "zzo" # Name of Zzo theme folder in `themes/`.
 
 defaultContentLanguage = "zh" # Default language to use (if you setup multilingual)
