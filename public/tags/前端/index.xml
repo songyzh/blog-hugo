@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 02 Jul 2020 17:00:06 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2020 16:54:06 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
@@ -21,6 +21,44 @@
     
     
 
+      
+      <item>
+        <title>前端异步解决方案总结</title>
+        <link>https://blog.syzh.fun/posts/hxd/front-end-async-a9c14713e59f4677b6d2d9066b32f593/</link>
+        <pubDate>Sun, 26 Jul 2020 16:54:06 +0800</pubDate>
+        
+        <atom:modified>Sun, 26 Jul 2020 16:54:06 +0800</atom:modified>
+        <guid>https://blog.syzh.fun/posts/hxd/front-end-async-a9c14713e59f4677b6d2d9066b32f593/</guid>
+        <description>在最近一段时间的面试中，前端异步解决方案是一个高频面试题，在此做一个总结回顾。 一、首先从概念上理解，什么是同步异步？ 同步和异步是从消息通知机</description>
+        
+        <dc:creator>东</dc:creator>
+        <media:content url="https://blog.syzh.funhttps://tva1.sinaimg.cn/large/007S8ZIlgy1gh4h7but8ij30nm0bk0t2.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>前端</category>
+            
+          
+            
+              <category>JavaScript</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>webpack项目打包优化</title>
