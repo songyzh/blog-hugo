@@ -44,6 +44,40 @@
 
       
       <item>
+        <title>antv.G6 导出全图得到0 bytes 的问题</title>
+        <link>https://blog.syzh.fun/posts/hxd/antv-g6-export-pic-zero-bytes/</link>
+        <pubDate>Sun, 23 Aug 2020 12:00:06 +0800</pubDate>
+        
+        <atom:modified>Sun, 23 Aug 2020 12:00:06 +0800</atom:modified>
+        <guid>https://blog.syzh.fun/posts/hxd/antv-g6-export-pic-zero-bytes/</guid>
+        <description>一 问题背景 最近在使用G6 展示树状图的时候需要有导出图片的需求，于是使用graph.downloadFullImage 方法来导出canvas 内</description>
+        
+        <dc:creator>东</dc:creator>
+        <media:content url="https://blog.syzh.funhttps://tva1.sinaimg.cn/large/007S8ZIlgy1gi1mrea3s9j30l909xweq.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>前端</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
         <title>前端异步解决方案总结</title>
         <link>https://blog.syzh.fun/posts/hxd/front-end-async-a9c14713e59f4677b6d2d9066b32f593/</link>
         <pubDate>Sun, 26 Jul 2020 16:54:06 +0800</pubDate>
