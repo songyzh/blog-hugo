@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://blog.syzh.fun/</loc>
-    <lastmod>2020-09-20T18:31:06+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.syzh.fun/categories/</loc>
     <lastmod>2020-09-20T18:31:06+08:00</lastmod>
   </url>
@@ -290,6 +285,11 @@
   <url>
     <loc>https://blog.syzh.fun/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.syzh.fun/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>

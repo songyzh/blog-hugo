@@ -1,47 +1,188 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>webpack学习总结 on 每天进步一点点</title>
     <link>https://blog.syzh.fun/series/webpack%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</link>
     <description>Recent content in webpack学习总结 on 每天进步一点点</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 02 Jul 2020 17:00:06 +0800</lastBuildDate><atom:link href="https://blog.syzh.fun/series/webpack%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>webpack项目打包优化</title>
-      <link>https://blog.syzh.fun/posts/hxd/webpack-optimization/</link>
-      <pubDate>Thu, 02 Jul 2020 17:00:06 +0800</pubDate>
-      
-      <guid>https://blog.syzh.fun/posts/hxd/webpack-optimization/</guid>
-      <description>本文主要是对项目构建优化过程的记录，项目是基于vue3.0脚手架搭件的 首次打包 dist : 15.1 M 1 发现dist/img/icons 中有很多vue-cl</description>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2020 17:00:06 +0800</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
     
-    <item>
-      <title>webpack 学习总结 三</title>
-      <link>https://blog.syzh.fun/posts/hxd/webpack-notes-3/</link>
-      <pubDate>Thu, 04 Jun 2020 21:00:06 +0800</pubDate>
-      
-      <guid>https://blog.syzh.fun/posts/hxd/webpack-notes-3/</guid>
-      <description>本文对于webpack 编译出的内容做分析总结。 普通文件引入的打包 1 2 // src/test.js module.exports = &amp;#39;test&amp;#39; 1 2 3 // src/index.js let test = require(&amp;#39;./test&amp;#39;); console.log(test) 打包后的main.js(摘取部分) 1 2 3 4</description>
-    </item>
+        <atom:link href="https://blog.syzh.fun/series/webpack%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>webpack 学习总结 二</title>
-      <link>https://blog.syzh.fun/posts/hxd/webpack-notes-2/</link>
-      <pubDate>Tue, 02 Jun 2020 22:00:06 +0800</pubDate>
-      
-      <guid>https://blog.syzh.fun/posts/hxd/webpack-notes-2/</guid>
-      <description>上一篇总结了webpack中使用的一些库，这一篇来总结下webpack整体流程,主要根据代码流程来总结。</description>
-    </item>
     
-    <item>
-      <title>webpack 学习总结 一</title>
-      <link>https://blog.syzh.fun/posts/hxd/webpack-notes-1/</link>
-      <pubDate>Mon, 01 Jun 2020 21:00:06 +0800</pubDate>
+    
+
       
-      <guid>https://blog.syzh.fun/posts/hxd/webpack-notes-1/</guid>
-      <description>webpack 是当前前端项目打包当中非常流行的打包框架，结合丰富的流程钩子函数、插件系统以及nodejs部分功能 给开发者提供了方便配置，易于扩展的打包工</description>
-    </item>
+      <item>
+        <title>webpack项目打包优化</title>
+        <link>https://blog.syzh.fun/posts/hxd/webpack-optimization/</link>
+        <pubDate>Thu, 02 Jul 2020 17:00:06 +0800</pubDate>
+        
+        <atom:modified>Thu, 02 Jul 2020 17:00:06 +0800</atom:modified>
+        <guid>https://blog.syzh.fun/posts/hxd/webpack-optimization/</guid>
+        <description>本文主要是对项目构建优化过程的记录，项目是基于vue3.0脚手架搭件的 首次打包 dist : 15.1 M 1 发现dist/img/icons 中有很多vue-cl</description>
+        
+        <dc:creator>东</dc:creator>
+        <media:content url="https://blog.syzh.funhttps://tva1.sinaimg.cn/large/007S8ZIlgy1ggcra0l7cqj30k00a5js3.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>前端</category>
+            
+          
+            
+              <category>webpack</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+              <category>webpack学习总结</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>webpack 学习总结 三</title>
+        <link>https://blog.syzh.fun/posts/hxd/webpack-notes-3/</link>
+        <pubDate>Thu, 04 Jun 2020 21:00:06 +0800</pubDate>
+        
+        <atom:modified>Thu, 04 Jun 2020 21:00:06 +0800</atom:modified>
+        <guid>https://blog.syzh.fun/posts/hxd/webpack-notes-3/</guid>
+        <description>本文对于webpack 编译出的内容做分析总结。 普通文件引入的打包 1 2 // src/test.js module.exports = &amp;#39;test&amp;#39; 1 2 3 // src/index.js let test = require(&amp;#39;./test&amp;#39;); console.log(test) 打包后的main.js(摘取部分) 1 2 3 4</description>
+        
+        <dc:creator>东</dc:creator>
+        <media:content url="https://blog.syzh.funhttps://tva1.sinaimg.cn/large/007S8ZIlgy1gfgmg3rhhpj30m80fgjrv.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>前端</category>
+            
+          
+            
+              <category>webpack</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+              <category>webpack学习总结</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>webpack 学习总结 二</title>
+        <link>https://blog.syzh.fun/posts/hxd/webpack-notes-2/</link>
+        <pubDate>Tue, 02 Jun 2020 22:00:06 +0800</pubDate>
+        
+        <atom:modified>Tue, 02 Jun 2020 22:00:06 +0800</atom:modified>
+        <guid>https://blog.syzh.fun/posts/hxd/webpack-notes-2/</guid>
+        <description>上一篇总结了webpack中使用的一些库，这一篇来总结下webpack整体流程,主要根据代码流程来总结。</description>
+        
+        <dc:creator>东</dc:creator>
+        <media:content url="https://blog.syzh.funhttps://tva1.sinaimg.cn/large/007S8ZIlgy1gfeap3l37dj30b407p3ym.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>前端</category>
+            
+          
+            
+              <category>webpack</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+              <category>webpack学习总结</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>webpack 学习总结 一</title>
+        <link>https://blog.syzh.fun/posts/hxd/webpack-notes-1/</link>
+        <pubDate>Mon, 01 Jun 2020 21:00:06 +0800</pubDate>
+        
+        <atom:modified>Mon, 01 Jun 2020 21:00:06 +0800</atom:modified>
+        <guid>https://blog.syzh.fun/posts/hxd/webpack-notes-1/</guid>
+        <description>webpack 是当前前端项目打包当中非常流行的打包框架，结合丰富的流程钩子函数、插件系统以及nodejs部分功能 给开发者提供了方便配置，易于扩展的打包工</description>
+        
+        <dc:creator>东</dc:creator>
+        <media:content url="https://blog.syzh.funhttps://tva1.sinaimg.cn/large/007S8ZIlgy1gfd4lqjr4hj30zk0ic0u1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>前端</category>
+            
+          
+            
+              <category>webpack</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+              <category>webpack学习总结</category>
+            
+          
+        
+      </item>
+      
+
     
   </channel>
 </rss>
