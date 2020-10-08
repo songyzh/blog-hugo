@@ -1231,7 +1231,7 @@
     <meta property="twitter:description" content="">
   
 
-<meta name="generator" content="Hugo 0.71.0" />
+<meta name="generator" content="Hugo 0.76.2" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1764,7 +1764,7 @@
   <span class="p">};</span>
 </code></pre></td></tr></table>
 </div>
-</div><p>查看canvas 的 <a href="https://developer.mozilla.org/zh-CN/docs/Web/API/HTMLCanvasElement/toDataURL">toDataURL</a> 方法，发现指出&rsquo;如果画布的高度或宽度是0，那么会返回字符串“<code>data:,”。</code>&rsquo;,再次调试，发现vCanvasEl 的宽度和高度都不为0:</p>
+</div><p>查看canvas 的 <a href="https://developer.mozilla.org/zh-CN/docs/Web/API/HTMLCanvasElement/toDataURL">toDataURL</a> 方法，发现指出&rsquo;如果画布的高度或宽度是0，那么会返回字符串“<code>data:,”。</code>',再次调试，发现vCanvasEl 的宽度和高度都不为0:</p>
 <p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gi0keed50xj30pc060q43.jpg" alt="屏幕快照 2020-08-23 上午11.01.25" /></p>
 <p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gi0kejzs53j30oi0fowhv.jpg" alt="屏幕快照 2020-08-23 上午11.01.51" /></p>
 <p>经查canvas 元素大小在各浏览器中都有限制，</p>

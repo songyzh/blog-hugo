@@ -1231,7 +1231,7 @@
     <meta property="twitter:description" content="">
   
 
-<meta name="generator" content="Hugo 0.71.0" />
+<meta name="generator" content="Hugo 0.76.2" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1669,7 +1669,7 @@
 </code></pre></td></tr></table>
 </div>
 </div><p>开始，根据入口文件引用的文件逐一运行，原文件中的require 被替代成__webpack_require__，也就是说，webpack打包的文件都没有使用node/es6的引用方法，而是自己实现的__webpack_require__方法。</p>
-<p>从__webpack_require__('./src/index.js&rsquo;)开始，拿到参数modules中被包装的index.js 的内容，遇到__webpack_require__('./src/test.js&rsquo;) 时，运行参数modules中./src/test.js 对应的封装方法，每运行完一个模块，就会为其生成一个module对象添加到installedModules，{ i: moduleId, l: false, exports:{}},保存其路径i，导出的内容exports，标记是否已经加载过l,installedModules 可以起到缓存的作用，如果已经加载过的模块可以直接从installedModules里拿到。</p>
+<p>从__webpack_require__('./src/index.js')开始，拿到参数modules中被包装的index.js 的内容，遇到__webpack_require__('./src/test.js') 时，运行参数modules中./src/test.js 对应的封装方法，每运行完一个模块，就会为其生成一个module对象添加到installedModules，{ i: moduleId, l: false, exports:{}},保存其路径i，导出的内容exports，标记是否已经加载过l,installedModules 可以起到缓存的作用，如果已经加载过的模块可以直接从installedModules里拿到。</p>
 <h2 id="不同引入方法的打包">不同引入方法的打包</h2>
 <p>众所周知，目前比较流行的模块加载方式是nodejs的module.exports/require 以及es6的 import/export,在webpack中这两种打包方式都支持，也就是上文中的__webpack_require__ 两种都支持，尝试通过es6 将上例中的test.js 修改成</p>
 <div class="highlight"><div class="chroma">

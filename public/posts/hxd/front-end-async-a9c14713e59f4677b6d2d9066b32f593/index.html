@@ -1231,7 +1231,7 @@
     <meta property="twitter:description" content="">
   
 
-<meta name="generator" content="Hugo 0.71.0" />
+<meta name="generator" content="Hugo 0.76.2" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1962,7 +1962,7 @@ promise 支持用户传入一个executor 函数，并提供resove和reject回调
 </span><span class="lnt">26
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kd">function</span> <span class="nx">async</span><span class="p">(</span><span class="nx">num</span><span class="p">){</span>
+<pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kd">function</span> <span class="kr">async</span><span class="p">(</span><span class="nx">num</span><span class="p">){</span>
   <span class="k">return</span> <span class="k">new</span> <span class="nb">Promise</span><span class="p">((</span><span class="nx">resolve</span><span class="p">,</span><span class="nx">reject</span><span class="p">)=&gt;{</span>
     <span class="nx">setTimeout</span><span class="p">(()</span> <span class="p">=&gt;</span> <span class="p">{</span>
       <span class="nx">resolve</span><span class="p">(</span><span class="nx">num</span><span class="p">)</span>
@@ -1971,8 +1971,8 @@ promise 支持用户传入一个executor 函数，并提供resove和reject回调
 <span class="p">}</span>
 
 <span class="kd">function</span><span class="o">*</span> <span class="nx">gen</span><span class="p">(</span><span class="nx">params</span><span class="p">)</span> <span class="p">{</span>
-  <span class="kd">let</span> <span class="nx">res1</span> <span class="o">=</span> <span class="k">yield</span> <span class="nx">async</span><span class="p">(</span><span class="mi">100</span><span class="p">);</span>
-  <span class="kd">let</span> <span class="nx">res2</span> <span class="o">=</span> <span class="k">yield</span> <span class="nx">async</span><span class="p">(</span><span class="mi">200</span><span class="p">);</span>
+  <span class="kd">let</span> <span class="nx">res1</span> <span class="o">=</span> <span class="k">yield</span> <span class="kr">async</span><span class="p">(</span><span class="mi">100</span><span class="p">);</span>
+  <span class="kd">let</span> <span class="nx">res2</span> <span class="o">=</span> <span class="k">yield</span> <span class="kr">async</span><span class="p">(</span><span class="mi">200</span><span class="p">);</span>
 <span class="p">}</span>
 
 <span class="kr">const</span> <span class="nx">iterator</span> <span class="o">=</span> <span class="nx">gen</span><span class="p">();</span>
@@ -2014,14 +2014,14 @@ async 函数是 Generator 函数的语法糖。也就是说，不必自己去一
 </span></code></pre></td>
 <td class="lntd">
 <pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="c1">// delay 效果
-</span><span class="c1"></span><span class="nx">async</span> <span class="kd">function</span> <span class="nx">timeout</span><span class="p">(</span><span class="nx">ms</span><span class="p">)</span> <span class="p">{</span>
-  <span class="nx">await</span> <span class="k">new</span> <span class="nb">Promise</span><span class="p">((</span><span class="nx">resolve</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+</span><span class="c1"></span><span class="kr">async</span> <span class="kd">function</span> <span class="nx">timeout</span><span class="p">(</span><span class="nx">ms</span><span class="p">)</span> <span class="p">{</span>
+  <span class="kr">await</span> <span class="k">new</span> <span class="nb">Promise</span><span class="p">((</span><span class="nx">resolve</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
     <span class="nx">setTimeout</span><span class="p">(</span><span class="nx">resolve</span><span class="p">,</span> <span class="nx">ms</span><span class="p">);</span>
   <span class="p">});</span>
 <span class="p">}</span>
 
-<span class="nx">async</span> <span class="kd">function</span> <span class="nx">asyncPrint</span><span class="p">(</span><span class="nx">value</span><span class="p">,</span> <span class="nx">ms</span><span class="p">)</span> <span class="p">{</span>
-  <span class="nx">await</span> <span class="nx">timeout</span><span class="p">(</span><span class="nx">ms</span><span class="p">);</span>
+<span class="kr">async</span> <span class="kd">function</span> <span class="nx">asyncPrint</span><span class="p">(</span><span class="nx">value</span><span class="p">,</span> <span class="nx">ms</span><span class="p">)</span> <span class="p">{</span>
+  <span class="kr">await</span> <span class="nx">timeout</span><span class="p">(</span><span class="nx">ms</span><span class="p">);</span>
   <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">value</span><span class="p">);</span>
 <span class="p">}</span>
 
