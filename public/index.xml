@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 08 Oct 2020 22:40:06 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2020 22:06:06 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
@@ -42,6 +42,40 @@
         
       
 
+      
+      <item>
+        <title>浏览器performance性能优化</title>
+        <link>https://blog.syzh.fun/posts/hxd/evaluate-performance/</link>
+        <pubDate>Mon, 16 Nov 2020 22:06:06 +0800</pubDate>
+        
+        <atom:modified>Mon, 16 Nov 2020 22:06:06 +0800</atom:modified>
+        <guid>https://blog.syzh.fun/posts/hxd/evaluate-performance/</guid>
+        <description>在最近的工作中涉及到了页面大数量的计算和渲染，因为没能很好的利用浏览器开发工具中的perfomance，导致上线后性能遭到了一些吐槽，好在及</description>
+        
+        <dc:creator>东</dc:creator>
+        <media:content url="https://blog.syzh.funhttps://tva1.sinaimg.cn/large/0084UQshgy1gkrd8qjgylj30zq0l4aiu.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>前端</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>vue3.0的Composition-API</title>
