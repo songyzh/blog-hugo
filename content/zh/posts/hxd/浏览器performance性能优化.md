@@ -180,8 +180,6 @@ libraries:
 
 ![1605531773790](https://tva1.sinaimg.cn/large/0081Kckwgy1gkrbhqqxj9j31e80iogqv.jpg)
 
-<img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkrbhqqxj9j31e80iogqv.jpg" alt="1605531773790" style="zoom:50%;" />
-
 6  在 **app.update** 事件下面可以看到很多紫色的事件，如果它们更宽一些的话，看起来每个紫色块右上角都有又个红色三角形，现在点击一个紫色的 **Layout**事件，下面的DevTools会给出这个事件的详情，事实上，这里有一个关于强制回流(布局的另一种说法)的警告。
 
 ![1605532856654](https://tva1.sinaimg.cn/large/0081Kckwgy1gkrbxjvgerj31460a6gov.jpg)
