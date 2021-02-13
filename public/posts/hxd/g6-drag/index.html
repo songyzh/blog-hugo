@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>浏览器performance性能优化 – 每天进步一点点</title>
+    <title>G6中实现双指拖动范围限制 – 每天进步一点点</title>
     
 
 
@@ -551,7 +551,7 @@
 
   
     
-    var permalink = JSON.parse("\"https://blog.syzh.fun/posts/hxd/evaluate-performance/\"");
+    var permalink = JSON.parse("\"https://blog.syzh.fun/posts/hxd/g6-drag/\"");
     var searchResults = null;
     var searchMenu = null;
     var searchText = null;
@@ -1208,26 +1208,26 @@
 
 <meta name="keywords" content="前端">
 
-<meta name="created" content="2020-11-16T22:06:06&#43;0800">
-<meta name="modified" content="2020-11-16T22:06:06&#43;0800">
-<meta property="article:published_time" content="2020-11-16T22:06:06&#43;0800">
+<meta name="created" content="2021-02-13T21:06:06&#43;0800">
+<meta name="modified" content="2021-02-13T21:06:06&#43;0800">
+<meta property="article:published_time" content="2021-02-13T21:06:06&#43;0800">
 
 <meta name="author" content="东">
-<meta property="article:author" content="https://blog.syzh.fun/posts/hxd/evaluate-performance/@东">
+<meta property="article:author" content="https://blog.syzh.fun/posts/hxd/g6-drag/@东">
 
 
 <meta property="og:site_name" content="每天进步一点点">
-<meta property="og:title" content="浏览器performance性能优化">
-<meta property="og:url" content="https://blog.syzh.fun/posts/hxd/evaluate-performance/">
+<meta property="og:title" content="G6中实现双指拖动范围限制">
+<meta property="og:url" content="https://blog.syzh.fun/posts/hxd/g6-drag/">
 <meta property="og:type" content="article">
 <meta property="og:description" content="">
 
   
-    <meta property="og:image" content="https://tva1.sinaimg.cn/large/0084UQshgy1gkrd8qjgylj30zq0l4aiu.jpg">
-    <meta property="og:image:url" content="https://tva1.sinaimg.cn/large/0084UQshgy1gkrd8qjgylj30zq0l4aiu.jpg">
+    <meta property="og:image" content="https://tva1.sinaimg.cn/large/008eGmZEgy1gnm83n0dmuj31z40jghdt.jpg">
+    <meta property="og:image:url" content="https://tva1.sinaimg.cn/large/008eGmZEgy1gnm83n0dmuj31z40jghdt.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:app:name:iphone" content="每天进步一点点">
-    <meta property="twitter:title" content="浏览器performance性能优化">
+    <meta property="twitter:title" content="G6中实现双指拖动范围限制">
     <meta property="twitter:description" content="">
   
 
@@ -1240,7 +1240,7 @@
 
 <meta name="apple-mobile-web-app-status-bar-style" content="#fff">
 
-<link rel="canonical" href="https://blog.syzh.fun/posts/hxd/evaluate-performance/">
+<link rel="canonical" href="https://blog.syzh.fun/posts/hxd/g6-drag/">
 
 <link rel="manifest" href="/manifest.json">
 
@@ -1254,13 +1254,13 @@
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "headline": "浏览器performance性能优化",
-    "datePublished": "2020-11-16T22:06:06+08:00",
-    "dateModified": "2020-11-16T22:06:06+08:00",
-    "url" : "https://blog.syzh.fun/posts/hxd/evaluate-performance/",
-    "description": "在最近的工作中涉及到了页面大数量的计算和渲染，因为没能很好的利用浏览器开发工具中的perfomance，导致上线后性能遭到了一些吐槽，好在及",
+    "headline": "G6中实现双指拖动范围限制",
+    "datePublished": "2021-02-13T21:06:06+08:00",
+    "dateModified": "2021-02-13T21:06:06+08:00",
+    "url" : "https://blog.syzh.fun/posts/hxd/g6-drag/",
+    "description": "最近用G6做的一个图结构需求要做拖动范围限制，就是我们不希望用户可以把图完全拖出去画布，这样容易找不到造成困惑的局面，为了支持各种用户的拖动",
     "keywords": ["前端"],
-    "image" : "https://tva1.sinaimg.cn/large/0084UQshgy1gkrd8qjgylj30zq0l4aiu.jpg",
+    "image" : "https://tva1.sinaimg.cn/large/008eGmZEgy1gnm83n0dmuj31z40jghdt.jpg",
     "author": {
       "@type": "Person",
       "name": "东"
@@ -1516,7 +1516,7 @@
   
   <li  class="is-active" >
     
-      <span>浏览器performance性能优化</span>
+      <span>G6中实现双指拖动范围限制</span>
     
   </li>
   
@@ -1528,13 +1528,13 @@
   <div class="single ">
     <div class="single__nojs">Please enable Javascript to view the contents</div>
     <script>document.querySelector('.single').classList.remove('hide'); document.querySelector('.single__nojs').classList.add('hide');</script>
-    <h2 class="single__title" data-ani="true">浏览器performance性能优化</h2>
+    <h2 class="single__title" data-ani="true">G6中实现双指拖动范围限制</h2>
     <div class="single__meta">
       
 <div class="single__infos">
-  <time class="single__info" title="创建日期">📅&nbsp;2020年11月16日 </time>
+  <time class="single__info" title="创建日期">📅&nbsp;2021年02月13日 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="阅读时长"> ☕&nbsp;6&nbsp;分钟 </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="阅读时长"> ☕&nbsp;4&nbsp;分钟 </span>
   
   &nbsp;&middot;&nbsp; <span class="single__info" title="作者">✍️&nbsp;东</span>
   
@@ -1554,89 +1554,314 @@
     </div>
     <article class="single__contents" data-dir="ltr" data-ani="true">
       
-      <p>在最近的工作中涉及到了页面大数量的计算和渲染，因为没能很好的利用浏览器开发工具中的perfomance，导致上线后性能遭到了一些吐槽，好在及时通过performance profiling 的过程发现了瓶颈所在，这篇文章就是对于谷歌开发工具官网中的教程<a href="https://developers.google.com/web/tools/chrome-devtools/evaluate-performance">evaluate-performance</a>的一次翻译和学习。</p>
-<p>教程是Chrome 59，我本地安装的是86，可能会有一些差异。</p>
-<h3 id="get-started">get started</h3>
-<p>1 <a href="https://support.google.com/chrome/answer/95464">无痕模式</a> 打开一个浏览器窗口（<strong>⌘ + Shift + n</strong>），无痕模式确保浏览器在一个比较干净的状态下运行，比如说你安装了一些插件，那么这些插件可能会影响你测量性能时候的指标；</p>
-<p>2 无痕窗口中打开下面的网址，这就是你将要profile分析的网页，网页中有很多上下移动的方块；</p>
+      <p>最近用G6做的一个图结构需求要做拖动范围限制，就是我们不希望用户可以把图完全拖出去画布，这样容易找不到造成困惑的局面，为了支持各种用户的拖动习惯，设计要求同时满足鼠标按键拖动和双指拖动。</p>
+<p>鼠标按键拖动很容易就能实现，因为G6有一些默认的全局自定义行为，可以根据需要来在生成G6对象的时候传入参数，当然也支持拖动范围的限制，配置如下：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-javascript" data-lang="javascript">	<span class="nx">https</span><span class="o">:</span><span class="c1">//googlechrome.github.io/devtools-samples/jank/
-</span></code></pre></td></tr></table>
+<pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="nx">modes</span><span class="o">:</span> <span class="p">{</span>
+    <span class="c1">// 设置一些内置默认行为
+</span><span class="c1"></span>    <span class="p">[</span><span class="s1">&#39;default&#39;</span><span class="p">]</span><span class="o">:</span> <span class="p">[</span>
+      <span class="p">{</span>
+        <span class="nx">type</span><span class="o">:</span> <span class="s1">&#39;drag-canvas&#39;</span><span class="p">,</span>
+        <span class="nx">scalableRange</span><span class="o">:</span> <span class="o">-</span><span class="mi">100</span><span class="p">,</span><span class="c1">// 拖动 canvas 可扩展的范围，默认为 0
+</span><span class="c1"></span>      <span class="p">},</span>
+      <span class="p">...</span>
+</code></pre></td></tr></table>
 </div>
-</div><p>3 输入 Command+Option+I (Mac) or Control+Shift+I (Windows, Linux) 命令打开 DevTools.</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkpwnwenjvj31tm0u00zq.jpg" alt="屏幕快照 2020-11-15 15.48.02" style="zoom:50%;" /></p>
-<h3 id="simulate-a-mobile-cpu">simulate a mobile cpu</h3>
-<p>手机相较于台式和笔记本电脑有相对弱一些的中央处理器，当我们分析一个网页的时候，可以使用CPU Throttling 来模拟手机页面效果。</p>
-<p>1 DevTools中点击performan 栏；</p>
-<p>2 确保勾选了<strong>Screenshots</strong>；</p>
-<p>2 点击performace下的设置，DevTools显示出它如何捕获性能指标相关的设置；</p>
-<p>3 这里我选择4x slowdown 来限制cpu 效率是通常4倍的慢速</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkq051v2wmj30yk07wq4f.jpg" alt="1605433693333" /></p>
-<h3 id="set-up-the-demo">Set up the demo</h3>
-<p>要创建一个让所有读者都看到相同性能分析效果的demo不太容易，这部分能让你定制自己的demo来确保能看到和教程类似的运行结果。</p>
-<p>1 点击<strong>Add 10</strong> 直到蓝色方块明显异动的比之前更慢，高配的机器可能需要20次；</p>
-<p>2 点击<strong>Optimize</strong>，蓝色方块应该会明显移动更快和顺畅；</p>
-<p>3 点击<strong>Un-Optimize</strong>，蓝色方框应该再次移动的慢且卡顿。</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkq0gegmejj30u00v112q.jpg" alt="屏幕快照 2020-11-15 17.59.14" style="zoom: 33%;" /></p>
-<h3 id="record-runtime-performance">Record runtime performance</h3>
-<p>当你点击页面的优化版本时，蓝色方块移动更快，原因是什么？两个版本都应该在相同的距离和时间里移动每一个方块，这里用performance 录一段分析资料来分析没有优化时页面的性能瓶颈。</p>
-<p>1 点击浏览器performance 中的  <strong>Record</strong> <img src="https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/imgs/record.png" alt="Record" />，devtools 会抓取页面运行时候的性能指标；</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkq0sc0umej30yi09sabj.jpg" alt="1605434926103" /></p>
-<p>2 等待几秒</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkq0sgsko6j31ty0u07hy.jpg" alt="屏幕快照 2020-11-15 18.09.42" /></p>
-<p>3 点击<strong>Stop</strong>，devtools停止记录，处理数据，然后把结果展示在p er formance 面板里</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkq0slfs9dj31hi0u0qoh.jpg" alt="屏幕快照 2020-11-15 18.10.36" /></p>
-<h3 id="analyze-the-results">Analyze the results</h3>
-<p>得到一份性能记录之后，就可以判断当前页面的性能好坏，得到不好的原因。</p>
-<h5 id="analyze-frames-per-second">Analyze frames per second</h5>
-<p>分析一个页面动画性能的主要指标就是FPS(帧率)，用户们普遍都在帧率时60 的时候比较满意（也就是每秒页面刷新60次）</p>
-<p>1 看看我们的FPS 图表，当你看到FPS 上的红条时，说明帧率已经降到了会影响到用户体验的程度，通常来说，绿条越高说明帧率越高；</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkq2vqkhw9j311i0patfb.jpg" alt="1605439295714" style="zoom:50%;" /></p>
-<p>2 在FPS 下面还能看到cpu 图表，CPU 图中颜色对应着最下面的summary 图标的颜色，事实是，CPU图表充满了颜色，意味着CPU在录音期间达到了极限。每当你看到CPU长时间超负荷工作时，就暗示着你要想办法让它减少工作量。</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkq2vwqscxj30ug0u0wn0.jpg" alt="1605439339289" style="zoom:50%;" /></p>
-<p>3 将鼠标悬浮在<strong>FPS</strong>, <strong>CPU</strong>, 或者 <strong>NET</strong> 上面， DevTool会展示当前页面的内容，将鼠标从左往右移动可以看到录制时候的页面动态情况，这就叫scrubbing（擦洗？这块我也不太理解是个啥意思），这对手动分析动画过程非常有用。</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkq2wppcnfj311a0o0tpj.jpg" alt="屏幕快照 2020-11-15 19.24.06" style="zoom:50%;" /></p>
-<p>4 在<strong>Frames</strong>  部分，鼠标悬浮在一个绿色方块上可以看到当时那一帧的帧率（FPS）,每帧可能都低于60帧/秒的目标。(原来以为是我的谷歌版本较新，没有悬浮展示帧率的效果，后来发现是可以将下面的js heap - GPU 那一行右侧往下拖，然后就可以看到了)</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkq32wexifj311c0dmn1g.jpg" alt="1605439753056" /></p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkq392xi8uj315a0lkjy3.jpg" alt="1605440148104" /></p>
-<p>通过这个演示，很明显页面的性能不是很好。但是在真实的场景中，它可能不是那么清楚，所以拥有所有这些工具来进行测量是很方便的。</p>
-<h3 id="bonus-open-the-fps-meter">Bonus: Open the FPS meter</h3>
-<p>另一个好用的工具就是FPS meter，可以实时提供当前页面的帧率，</p>
-<p>1 用Command+Shift+P (Mac) 或者 Control+Shift+P  (Windows, Linux) 打开菜单栏；</p>
-<p>2 输入rendering,找到show frames per second &hellip;,点击选中，然后就可以看到页面上的实时帧率</p>
-<p>3 关闭也是1步骤，然后选项就是 hide  frames per second &hellip;</p>
-<p>这里我的操作和文中的显示的图不一样，查阅了一些没查出原因。。。esc 也并不能退出</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkq3k7h64nj313u0nsafs.jpg" alt="1605440562695" style="zoom:50%;" /></p>
-<p>文中的效果：</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkq3w9gmenj310i0moanx.jpg" alt="屏幕快照 2020-11-15 19.58.05" style="zoom:50%;" /></p>
-<p>我的效果：</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkq3wjhfrfj30ze0e6jt3.jpg" alt="屏幕快照 2020-11-15 19.58.15" style="zoom:50%;" /></p>
-<p>不知为何显出这一堆数字而不是fps..数字还有重叠&hellip;</p>
-<h3 id="find-the-bottleneck">Find the bottleneck</h3>
-<p>现在已经衡量和确定了当前的动画效果是有问题的，接下来就找一下原因。</p>
-<p>1 注意到summary 栏中，当没有选中某个事件的时候给出了所有活动的一个拆分时间。这个页面主要的时间都用到了rendering,既然性能优化就是一门做更少事情的艺术，我们的目标就是减少rendering 的工作所占用的时间；</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkrbfivbxcj30ss0eq3zu.jpg" alt="1605531157744" style="zoom:50%;" /></p>
-<p>2 打开Main  这一栏，DevTools向你展示了主线程随时间变化的活动火焰图。x轴代表记录时间，每块方块代表一个事件。方块越宽意味着事件耗时比较长，y轴表示调用堆栈。当你看到堆栈堆积在一起时，这意味着上面的事件导致了下面的事件；</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkrbg1tn56j31a60ngdns.jpg" alt="1605531332160" /></p>
-<p>3 记录里有很多数据。通过在上面总览部分单击、按住并拖动鼠标来放大单个动画帧所触发的事件，总览是包含FPS、CPU和NET图表的部分。Main部分和Summary选项卡仅显示记录的选定部分的信息（上图中有选中部分）。<br />
-4 注意到Animation Frame Fired事件右上角的红色三角形，当看到这个红色三角形的时候，意味着这个事件可能又一些问题；</p>
-<p>5 点击Animation Frame Fired 事件，Summary 栏会给出这个事件的信息。注意到下面的reveal 链接，点击这个链接，DevTools  会高亮显示触发 <strong>Animation Frame Fired</strong> 事件的原因，注意到<strong>app.js:94</strong>链接，点击可以进入源码行；</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkrbh7rkzvj31840u0wng.jpg" alt="1605531730408" /></p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkrbhqqxj9j31e80iogqv.jpg" alt="1605531773790" /></p>
-<p>6  在 <strong>app.update</strong> 事件下面可以看到很多紫色的事件，如果它们更宽一些的话，看起来每个紫色块右上角都有又个红色三角形，现在点击一个紫色的 <strong>Layout</strong>事件，下面的DevTools会给出这个事件的详情，事实上，这里有一个关于强制回流(布局的另一种说法)的警告。</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkrbxjvgerj31460a6gov.jpg" alt="1605532856654" /></p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkrbxobwgcj30zg0jw40k.jpg" alt="1605532901843" style="zoom:50%;" /></p>
-<p>7 点击上图的<strong>Summary</strong>栏中的app.js:70,可以看到强制回流的那一行代码：</p>
-<p><img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkrc6gz58jj31360eqq6w.jpg" alt="1605533354785" /></p>
-<p>至此我们找到了原因（<strong>Figure 13</strong>）：</p>
-<p>代码的原因是，每一帧的动画中都改变了每一个方块的style属性，然后立刻访问每个方块在页面中的位置，因为上面刚刚改变了方块的style 属性，浏览器不知道是否每个方块的位置发生了变化，所以不得不进行重排来计算方块的位置，<a href="https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing#avoid_forced_synchronous_layouts">这里查看如何避免页面同步重新布局</a></p>
-<h3 id="bonus-analyze-the-optimized-version">Bonus: Analyze the optimized version</h3>
-<p>使用上面学习的过程和工具，点击示例页面中的<strong>Optimize</strong>，然后在进行一次录制，分析结果，从提高的帧率到减少主部分火焰图中的事件，你可以看到优化版本的应用做了更少的工作，得到了更好的性能。</p>
-<p>下面是一些优化页面的链接这里就不多说了，over。</p>
+</div><p>对于scalableRange 的配置，可以看<a href="https://g6.antv.vision/zh/docs/manual/middle/states/defaultBehavior/#drag-canvas">这里</a>；文档中给出了比较好的图片解释；设置scalableRange  -100，就可以是我们的图在画布中拖动时候始终保持100px 的内容保持在画布内；</p>
+<p>那么问题来了，没有双指拖动的默认行为怎么办？G6 提供了registerBehavior 可以<a href="https://antv-g6.gitee.io/zh/examples/interaction/customBehavior#dragCanvasTwoFingers">注册自定义行为</a>，在new G6ES.Graph 之前自定义一个行为，并且在上面的default 行为中添加成默认行为：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="nx">G6ES</span><span class="p">.</span><span class="nx">registerBehavior</span><span class="p">(</span><span class="s1">&#39;double-finger-drag-canvas&#39;</span><span class="p">,</span> <span class="p">{</span>
+      <span class="nx">getEvents</span><span class="o">:</span> <span class="kd">function</span> <span class="nx">getEvents</span><span class="p">()</span> <span class="p">{</span>
+        <span class="k">return</span> <span class="p">{</span>
+          <span class="nx">wheel</span><span class="o">:</span> <span class="s1">&#39;onWheel&#39;</span><span class="p">,</span>
+        <span class="p">};</span>
+      <span class="p">},</span>
+
+      <span class="nx">onWheel</span><span class="o">:</span> <span class="p">(</span><span class="nx">ev</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+        <span class="k">if</span> <span class="p">(</span><span class="nx">ev</span><span class="p">.</span><span class="nx">ctrlKey</span><span class="p">)</span> <span class="p">{</span>
+          <span class="c1">// 按住ctrl 键滚轮缩放 这里也是考虑到了一些通用的用户习惯,于是我们保留了demo 中的这个操作
+</span><span class="c1"></span>          <span class="kr">const</span> <span class="nx">canvas</span> <span class="o">=</span> <span class="nx">graph</span><span class="p">.</span><span class="nx">get</span><span class="p">(</span><span class="s1">&#39;canvas&#39;</span><span class="p">);</span>
+          <span class="kr">const</span> <span class="nx">point</span> <span class="o">=</span> <span class="nx">canvas</span><span class="p">.</span><span class="nx">getPointByClient</span><span class="p">(</span><span class="nx">ev</span><span class="p">.</span><span class="nx">clientX</span><span class="p">,</span> <span class="nx">ev</span><span class="p">.</span><span class="nx">clientY</span><span class="p">);</span>
+          <span class="kd">let</span> <span class="nx">ratio</span> <span class="o">=</span> <span class="nx">graph</span><span class="p">.</span><span class="nx">getZoom</span><span class="p">();</span>
+          <span class="k">if</span> <span class="p">(</span><span class="nx">ev</span><span class="p">.</span><span class="nx">wheelDelta</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+            <span class="nx">ratio</span> <span class="o">+=</span> <span class="nx">ratio</span> <span class="o">*</span> <span class="mf">0.05</span><span class="p">;</span>
+          <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+            <span class="nx">ratio</span> <span class="o">-=</span> <span class="nx">ratio</span> <span class="o">*</span> <span class="mf">0.05</span><span class="p">;</span>
+          <span class="p">}</span>
+          <span class="nx">graph</span><span class="p">.</span><span class="nx">zoomTo</span><span class="p">(</span><span class="nx">ratio</span><span class="p">,</span> <span class="p">{</span>
+            <span class="nx">x</span><span class="o">:</span> <span class="nx">point</span><span class="p">.</span><span class="nx">x</span><span class="p">,</span>
+            <span class="nx">y</span><span class="o">:</span> <span class="nx">point</span><span class="p">.</span><span class="nx">y</span><span class="p">,</span>
+          <span class="p">});</span>
+          <span class="nx">config</span><span class="p">.</span><span class="nx">setZoomValue</span><span class="p">(</span><span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">(</span><span class="nx">ratio</span> <span class="o">*</span> <span class="mi">100</span><span class="p">));</span>
+        <span class="p">}</span> <span class="k">else</span> <span class="p">{</span> <span class="c1">// 双指拖动
+</span><span class="c1"></span>          <span class="kr">const</span> <span class="nx">x</span> <span class="o">=</span> <span class="nx">ev</span><span class="p">.</span><span class="nx">deltaX</span> <span class="o">||</span> <span class="nx">ev</span><span class="p">.</span><span class="nx">movementX</span><span class="p">;</span>
+          <span class="kr">const</span> <span class="nx">y</span> <span class="o">=</span> <span class="nx">ev</span><span class="p">.</span><span class="nx">deltaY</span> <span class="o">||</span> <span class="nx">ev</span><span class="p">.</span><span class="nx">movementY</span><span class="p">;</span>
+          <span class="nx">graph</span><span class="p">.</span><span class="nx">translate</span><span class="p">(</span><span class="o">-</span><span class="nx">x</span><span class="p">,</span> <span class="o">-</span><span class="nx">y</span><span class="p">);</span>
+        <span class="p">}</span>
+        <span class="nx">ev</span><span class="p">.</span><span class="nx">preventDefault</span><span class="p">();</span>
+      <span class="p">},</span>
+    <span class="p">});</span>
+
+
+<span class="c1">// default 行为中添加成默认行为
+</span><span class="c1"></span><span class="nx">modes</span><span class="o">:</span> <span class="p">{</span>
+    <span class="c1">// 设置一些内置默认行为
+</span><span class="c1"></span>    <span class="p">[</span><span class="s1">&#39;default&#39;</span><span class="p">]</span><span class="o">:</span> <span class="p">[</span>
+      <span class="p">{</span>
+        <span class="nx">type</span><span class="o">:</span> <span class="s1">&#39;drag-canvas&#39;</span><span class="p">,</span>
+        <span class="nx">scalableRange</span><span class="o">:</span> <span class="o">-</span><span class="mi">100</span><span class="p">,</span><span class="c1">// 拖动 canvas 可扩展的范围，默认为 0
+</span><span class="c1"></span>      <span class="p">},</span>
+      <span class="s1">&#39;double-finger-drag-canvas&#39;</span><span class="p">,</span>
+      <span class="p">...</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>终于实现了让人为难的双指移动需求，那么下一个问题来了，怎么实现限制范围？</p>
+<p>翻遍文档没有找到画布移动时候上下左右的位置信息接口，也就是说没有办法得到我们移动dom 元素时候能获得的元素的div.style.left 以及鼠标对象的clientX 等可以计算位置的信息，这就有点愁人了&hellip;&hellip;</p>
+<p>但是人家明明已经在鼠标拖动的时候实现了这个需求，于是我想的是，先看看能不能抄抄作业！都是基于这个图用的同一个坐标体系，说不定可以拿来借鉴，于是找到了项目源码中的 node_modules/@antv/g6/es/behavior/drag-canvas.js 文件 (我们的G6版本是4.0.1)，发现onMouseMove的时候会调用updateViewport方法，那么肯定是这个方法更新位置，在这个方法内打个断点：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="nx">updateViewport</span><span class="o">:</span> <span class="kd">function</span> <span class="nx">updateViewport</span><span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+    <span class="kr">debugger</span><span class="p">;</span>
+    <span class="kd">var</span> <span class="nx">origin</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">origin</span><span class="p">;</span>
+    <span class="kd">var</span> <span class="nx">clientX</span> <span class="o">=</span> <span class="o">+</span><span class="nx">e</span><span class="p">.</span><span class="nx">clientX</span><span class="p">;</span>
+    <span class="kd">var</span> <span class="nx">clientY</span> <span class="o">=</span> <span class="o">+</span><span class="nx">e</span><span class="p">.</span><span class="nx">clientY</span><span class="p">;</span>
+
+    <span class="k">if</span> <span class="p">(</span><span class="nb">isNaN</span><span class="p">(</span><span class="nx">clientX</span><span class="p">)</span> <span class="o">||</span> <span class="nb">isNaN</span><span class="p">(</span><span class="nx">clientY</span><span class="p">))</span> <span class="p">{</span>
+      <span class="k">return</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="kd">var</span> <span class="nx">dx</span> <span class="o">=</span> <span class="nx">clientX</span> <span class="o">-</span> <span class="nx">origin</span><span class="p">.</span><span class="nx">x</span><span class="p">;</span> <span class="c1">// x 方向的位移
+</span><span class="c1"></span>    <span class="kd">var</span> <span class="nx">dy</span> <span class="o">=</span> <span class="nx">clientY</span> <span class="o">-</span> <span class="nx">origin</span><span class="p">.</span><span class="nx">y</span><span class="p">;</span> <span class="c1">// y 方向的位移
+</span><span class="c1"></span>
+    <span class="k">if</span> <span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">get</span><span class="p">(</span><span class="s1">&#39;direction&#39;</span><span class="p">)</span> <span class="o">===</span> <span class="s1">&#39;x&#39;</span><span class="p">)</span> <span class="p">{</span> <span class="c1">// drag-canvas 中还有可能设置只有一个方向可以拖动
+</span><span class="c1"></span>      <span class="nx">dy</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">get</span><span class="p">(</span><span class="s1">&#39;direction&#39;</span><span class="p">)</span> <span class="o">===</span> <span class="s1">&#39;y&#39;</span><span class="p">)</span> <span class="p">{</span>
+      <span class="nx">dx</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="k">this</span><span class="p">.</span><span class="nx">origin</span> <span class="o">=</span> <span class="p">{</span>
+      <span class="nx">x</span><span class="o">:</span> <span class="nx">clientX</span><span class="p">,</span>
+      <span class="nx">y</span><span class="o">:</span> <span class="nx">clientY</span>
+    <span class="p">};</span>
+    <span class="kd">var</span> <span class="nx">width</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">graph</span><span class="p">.</span><span class="nx">get</span><span class="p">(</span><span class="s1">&#39;width&#39;</span><span class="p">);</span>
+    <span class="kd">var</span> <span class="nx">height</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">graph</span><span class="p">.</span><span class="nx">get</span><span class="p">(</span><span class="s1">&#39;height&#39;</span><span class="p">);</span>
+    <span class="kd">var</span> <span class="nx">graphCanvasBBox</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">graph</span><span class="p">.</span><span class="nx">get</span><span class="p">(</span><span class="s1">&#39;canvas&#39;</span><span class="p">).</span><span class="nx">getCanvasBBox</span><span class="p">();</span>
+
+    <span class="c1">// 传入的scalableRange 就在这里起作用！
+</span><span class="c1"></span>    <span class="k">if</span> <span class="p">(</span><span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">minX</span> <span class="o">&lt;=</span> <span class="nx">width</span> <span class="o">+</span> <span class="k">this</span><span class="p">.</span><span class="nx">scalableRange</span> <span class="o">&amp;&amp;</span> <span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">minX</span> <span class="o">+</span> <span class="nx">dx</span> <span class="o">&gt;</span> <span class="nx">width</span> <span class="o">+</span> <span class="k">this</span><span class="p">.</span><span class="nx">scalableRange</span> <span class="o">||</span> <span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">maxX</span> <span class="o">+</span> <span class="k">this</span><span class="p">.</span><span class="nx">scalableRange</span> <span class="o">&gt;=</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">maxX</span> <span class="o">+</span> <span class="k">this</span><span class="p">.</span><span class="nx">scalableRange</span> <span class="o">+</span> <span class="nx">dx</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+      <span class="nx">dx</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="k">if</span> <span class="p">(</span><span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">minY</span> <span class="o">&lt;=</span> <span class="nx">height</span> <span class="o">+</span> <span class="k">this</span><span class="p">.</span><span class="nx">scalableRange</span> <span class="o">&amp;&amp;</span> <span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">minY</span> <span class="o">+</span> <span class="nx">dy</span> <span class="o">&gt;</span> <span class="nx">height</span> <span class="o">+</span> <span class="k">this</span><span class="p">.</span><span class="nx">scalableRange</span> <span class="o">||</span> <span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">maxY</span> <span class="o">+</span> <span class="k">this</span><span class="p">.</span><span class="nx">scalableRange</span> <span class="o">&gt;=</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">maxY</span> <span class="o">+</span> <span class="k">this</span><span class="p">.</span><span class="nx">scalableRange</span> <span class="o">+</span> <span class="nx">dy</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+      <span class="nx">dy</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="k">this</span><span class="p">.</span><span class="nx">graph</span><span class="p">.</span><span class="nx">translate</span><span class="p">(</span><span class="nx">dx</span><span class="p">,</span> <span class="nx">dy</span><span class="p">);</span>
+  <span class="p">},</span>
+</code></pre></td></tr></table>
+</div>
+</div><p><img src="https://tva1.sinaimg.cn/large/008eGmZEly1gnm752b2bij30u00u0468.jpg" alt="1613220531236" /></p>
+<p>终于，在graphCanvasBBox 这个变量中我们获得了想要的变量！！！好了，实现这个需求没有问题了！</p>
+<p>接下来当然是写一个我们自己的范围限制函数，首先道理和我们限制Dom元素移动的时候位置判断是一样的，这里用一个简图来表示一下4个方向的临界点：</p>
+<p><img src="https://tva1.sinaimg.cn/large/008eGmZEly1gnm7jvqmyij31140nc76p.jpg" alt="1613221341171" /></p>
+<p>也就是说通过minX，maxX,minY,maxY 和宽高的关系就可以判断出当前图画在画布的位置，经过调试发现跟上面的updateViewport方法不同的是他提供的onWheel 方法回调中直接就能拿到跟移动之前的相对位移，不需要根据</p>
+<p>clientX - origin.x 来计算，于是经过几次调试终于得到了我们的updateViewport 方法：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span><span class="lnt">45
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kd">let</span> <span class="nx">scalableRange</span> <span class="o">=</span> <span class="o">-</span><span class="mi">100</span><span class="p">;</span> <span class="c1">// 自己定义一个范围限制
+</span><span class="c1"></span><span class="nx">onWheel</span><span class="o">:</span> <span class="p">(</span><span class="nx">ev</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+        <span class="k">if</span> <span class="p">(</span><span class="nx">ev</span><span class="p">.</span><span class="nx">ctrlKey</span><span class="p">)</span> <span class="p">{</span>
+          <span class="c1">// 按住ctrl 键滚轮缩放
+</span><span class="c1"></span>          <span class="kr">const</span> <span class="nx">canvas</span> <span class="o">=</span> <span class="nx">graph</span><span class="p">.</span><span class="nx">get</span><span class="p">(</span><span class="s1">&#39;canvas&#39;</span><span class="p">);</span>
+          <span class="kr">const</span> <span class="nx">point</span> <span class="o">=</span> <span class="nx">canvas</span><span class="p">.</span><span class="nx">getPointByClient</span><span class="p">(</span><span class="nx">ev</span><span class="p">.</span><span class="nx">clientX</span><span class="p">,</span> <span class="nx">ev</span><span class="p">.</span><span class="nx">clientY</span><span class="p">);</span>
+          <span class="kd">let</span> <span class="nx">ratio</span> <span class="o">=</span> <span class="nx">graph</span><span class="p">.</span><span class="nx">getZoom</span><span class="p">();</span>
+          <span class="k">if</span> <span class="p">(</span><span class="nx">ev</span><span class="p">.</span><span class="nx">wheelDelta</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+            <span class="nx">ratio</span> <span class="o">+=</span> <span class="nx">ratio</span> <span class="o">*</span> <span class="mf">0.05</span><span class="p">;</span>
+          <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+            <span class="nx">ratio</span> <span class="o">-=</span> <span class="nx">ratio</span> <span class="o">*</span> <span class="mf">0.05</span><span class="p">;</span>
+          <span class="p">}</span>
+          <span class="nx">graph</span><span class="p">.</span><span class="nx">zoomTo</span><span class="p">(</span><span class="nx">ratio</span><span class="p">,</span> <span class="p">{</span>
+            <span class="nx">x</span><span class="o">:</span> <span class="nx">point</span><span class="p">.</span><span class="nx">x</span><span class="p">,</span>
+            <span class="nx">y</span><span class="o">:</span> <span class="nx">point</span><span class="p">.</span><span class="nx">y</span><span class="p">,</span>
+          <span class="p">});</span>
+          <span class="nx">config</span><span class="p">.</span><span class="nx">setZoomValue</span><span class="p">(</span><span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">(</span><span class="nx">ratio</span> <span class="o">*</span> <span class="mi">100</span><span class="p">));</span>
+        <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+          <span class="c1">// 这里是双指异动 + 范围限制
+</span><span class="c1"></span>          <span class="kd">let</span> <span class="nx">dx</span> <span class="o">=</span> <span class="nx">ev</span><span class="p">.</span><span class="nx">deltaX</span> <span class="o">||</span> <span class="nx">ev</span><span class="p">.</span><span class="nx">movementX</span><span class="p">;</span>
+          <span class="kd">let</span> <span class="nx">dy</span> <span class="o">=</span> <span class="nx">ev</span><span class="p">.</span><span class="nx">deltaY</span> <span class="o">||</span> <span class="nx">ev</span><span class="p">.</span><span class="nx">movementY</span><span class="p">;</span>
+          <span class="kd">let</span> <span class="nx">width</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">instance</span><span class="p">.</span><span class="nx">get</span><span class="p">(</span><span class="s1">&#39;width&#39;</span><span class="p">);</span>
+          <span class="kd">let</span> <span class="nx">height</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">instance</span><span class="p">.</span><span class="nx">get</span><span class="p">(</span><span class="s1">&#39;height&#39;</span><span class="p">);</span>
+          <span class="kd">let</span> <span class="nx">graphCanvasBBox</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">instance</span><span class="p">.</span><span class="nx">get</span><span class="p">(</span><span class="s1">&#39;canvas&#39;</span><span class="p">).</span><span class="nx">getCanvasBBox</span><span class="p">();</span>
+          <span class="k">if</span> <span class="p">(</span>
+            <span class="p">(</span><span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">minX</span> <span class="o">&lt;=</span> <span class="nx">width</span> <span class="o">+</span> <span class="nx">scalableRange</span> <span class="o">&amp;&amp;</span>
+              <span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">minX</span> <span class="o">-</span> <span class="nx">dx</span> <span class="o">&gt;</span> <span class="nx">width</span> <span class="o">+</span> <span class="nx">scalableRange</span><span class="p">)</span> <span class="o">||</span>
+            <span class="p">(</span><span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">maxX</span> <span class="o">+</span> <span class="nx">scalableRange</span> <span class="o">&gt;=</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span>
+              <span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">maxX</span> <span class="o">+</span> <span class="nx">scalableRange</span> <span class="o">-</span> <span class="nx">dx</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">)</span>
+          <span class="p">)</span> <span class="p">{</span>
+            <span class="nx">dx</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+          <span class="p">}</span>
+          <span class="k">if</span> <span class="p">(</span>
+            <span class="p">(</span><span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">minY</span> <span class="o">&lt;=</span> <span class="nx">height</span> <span class="o">+</span> <span class="nx">scalableRange</span> <span class="o">&amp;&amp;</span>
+              <span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">minY</span> <span class="o">-</span> <span class="nx">dy</span> <span class="o">&gt;</span> <span class="nx">height</span> <span class="o">+</span> <span class="nx">scalableRange</span><span class="p">)</span> <span class="o">||</span>
+            <span class="p">(</span><span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">maxY</span> <span class="o">+</span> <span class="nx">scalableRange</span> <span class="o">&gt;=</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span>
+              <span class="nx">graphCanvasBBox</span><span class="p">.</span><span class="nx">maxY</span> <span class="o">+</span> <span class="nx">scalableRange</span> <span class="o">-</span> <span class="nx">dy</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">)</span>
+          <span class="p">)</span> <span class="p">{</span>
+            <span class="nx">dy</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+          <span class="p">}</span>
+          <span class="c1">// eslint-disable-next-line no-use-before-define
+</span><span class="c1"></span>          <span class="nx">graph</span><span class="p">.</span><span class="nx">translate</span><span class="p">(</span><span class="o">-</span><span class="nx">dx</span><span class="p">,</span> <span class="o">-</span><span class="nx">dy</span><span class="p">);</span>
+        <span class="p">}</span>
+        <span class="nx">ev</span><span class="p">.</span><span class="nx">preventDefault</span><span class="p">();</span>
+      <span class="p">},</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>好了这个需求完成了～</p>
+<p>从这个需求得到的经验就是，如果需要实现一个类似的需求，但是没有直接的方法和API,可以去他已经实现的代码借鉴，会有一些踩坑的过程，但是因为有之前的写过的拖动DOM 的需求经验，所以大概能很快找到他在这里的实现思路，算是一种经验和推理的产物吧～</p>
+<p>参考的主要是G6 的官方文档：https://g6.antv.vision/zh/docs/manual/advanced/coordinate-system</p>
 
     </article>
     
@@ -1704,13 +1929,13 @@
       
     
       
-        <a href="https://www.reddit.com/submit?url=https%3a%2f%2fblog.syzh.fun%2fposts%2fhxd%2fevaluate-performance%2f&amp;title=%e6%b5%8f%e8%a7%88%e5%99%a8performance%e6%80%a7%e8%83%bd%e4%bc%98%e5%8c%96" target="_blank" rel="noreferer" title="Reddit" aria-label="Reddit Share Button" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&amp;title=' +  encodeURIComponent(document.title)); return false;" class="donation__item" data-type="share">
+        <a href="https://www.reddit.com/submit?url=https%3a%2f%2fblog.syzh.fun%2fposts%2fhxd%2fg6-drag%2f&amp;title=G6%e4%b8%ad%e5%ae%9e%e7%8e%b0%e5%8f%8c%e6%8c%87%e6%8b%96%e5%8a%a8%e8%8c%83%e5%9b%b4%e9%99%90%e5%88%b6" target="_blank" rel="noreferer" title="Reddit" aria-label="Reddit Share Button" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&amp;title=' +  encodeURIComponent(document.title)); return false;" class="donation__item" data-type="share">
           <svg data-name="reddit" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="35" height="35" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m21.325 9.308c-.758 0-1.425.319-1.916.816-1.805-1.268-4.239-2.084-6.936-2.171l1.401-6.406 4.461 1.016c0 1.108.89 2.013 1.982 2.013 1.113 0 2.008-.929 2.008-2.038s-.889-2.038-2.007-2.038c-.779 0-1.451.477-1.786 1.129l-4.927-1.108c-.248-.067-.491.113-.557.365l-1.538 7.062c-2.676.113-5.084.928-6.895 2.197-.491-.518-1.184-.837-1.942-.837-2.812 0-3.733 3.829-1.158 5.138-.091.405-.132.837-.132 1.268 0 4.301 4.775 7.786 10.638 7.786 5.888 0 10.663-3.485 10.663-7.786 0-.431-.045-.883-.156-1.289 2.523-1.314 1.594-5.115-1.203-5.117zm-15.724 5.41c0-1.129.89-2.038 2.008-2.038 1.092 0 1.983.903 1.983 2.038 0 1.109-.89 2.013-1.983 2.013-1.113.005-2.008-.904-2.008-2.013zm10.839 4.798c-1.841 1.868-7.036 1.868-8.878 0-.203-.18-.203-.498 0-.703.177-.18.491-.18.668 0 1.406 1.463 6.07 1.488 7.537 0 .177-.18.491-.18.668 0 .207.206.207.524.005.703zm-.041-2.781c-1.092 0-1.982-.903-1.982-2.011 0-1.129.89-2.038 1.982-2.038 1.113 0 2.008.903 2.008 2.038-.005 1.103-.895 2.011-2.008 2.011z"/></svg>
         </a>
       
     
       
-        <a href="https://twitter.com/intent/tweet?text=%e6%b5%8f%e8%a7%88%e5%99%a8performance%e6%80%a7%e8%83%bd%e4%bc%98%e5%8c%96&url=https%3a%2f%2fblog.syzh.fun%2fposts%2fhxd%2fevaluate-performance%2f&hashtags=%e5%89%8d%e7%ab%af&via=%e4%b8%9c" title="Twitter" aria-label="Twitter Share Button" class="donation__item" target="_blank" rel="noreferrer" data-type="share">
+        <a href="https://twitter.com/intent/tweet?text=G6%e4%b8%ad%e5%ae%9e%e7%8e%b0%e5%8f%8c%e6%8c%87%e6%8b%96%e5%8a%a8%e8%8c%83%e5%9b%b4%e9%99%90%e5%88%b6&url=https%3a%2f%2fblog.syzh.fun%2fposts%2fhxd%2fg6-drag%2f&hashtags=%e5%89%8d%e7%ab%af&via=%e4%b8%9c" title="Twitter" aria-label="Twitter Share Button" class="donation__item" target="_blank" rel="noreferrer" data-type="share">
           <svg data-name="twitter" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="35" height="35" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m21.534 7.113c.976-.693 1.797-1.558 2.466-2.554v-.001c-.893.391-1.843.651-2.835.777 1.02-.609 1.799-1.566 2.165-2.719-.951.567-2.001.967-3.12 1.191-.903-.962-2.19-1.557-3.594-1.557-2.724 0-4.917 2.211-4.917 4.921 0 .39.033.765.114 1.122-4.09-.2-7.71-2.16-10.142-5.147-.424.737-.674 1.58-.674 2.487 0 1.704.877 3.214 2.186 4.089-.791-.015-1.566-.245-2.223-.606v.054c0 2.391 1.705 4.377 3.942 4.835-.401.11-.837.162-1.29.162-.315 0-.633-.018-.931-.084.637 1.948 2.447 3.381 4.597 3.428-1.674 1.309-3.8 2.098-6.101 2.098-.403 0-.79-.018-1.177-.067 2.18 1.405 4.762 2.208 7.548 2.208 8.683 0 14.342-7.244 13.986-14.637z"/></svg>
         </a>
       
@@ -1734,6 +1959,14 @@
     <ul class="related-ul">
         
         <li>
+          <a href="/posts/hxd/react-immer/" class="related__link">react不可变数据之immer的使用</a>
+        </li>
+        
+        <li>
+          <a href="/posts/hxd/evaluate-performance/" class="related__link">浏览器performance性能优化</a>
+        </li>
+        
+        <li>
           <a href="/posts/hxd/vue-3.0-composition-api/" class="related__link">vue3.0的Composition-API</a>
         </li>
         
@@ -1745,14 +1978,6 @@
           <a href="/posts/hxd/antv-g6-export-pic-zero-bytes/" class="related__link">antv.G6 导出全图得到0 bytes 的问题</a>
         </li>
         
-        <li>
-          <a href="/posts/hxd/front-end-async-a9c14713e59f4677b6d2d9066b32f593/" class="related__link">前端异步解决方案总结</a>
-        </li>
-        
-        <li>
-          <a href="/posts/hxd/webpack-optimization/" class="related__link">webpack项目打包优化</a>
-        </li>
-        
     </ul>
     
   </section>
@@ -1760,21 +1985,14 @@
 <nav class="pagination-single">
   
     
-      <a href="https://blog.syzh.fun/posts/hxd/vue-3.0-composition-api/" class="pagination-single__left">
+      <a href="https://blog.syzh.fun/posts/hxd/react-immer/" class="pagination-single__left">
         <div class="pagination-single__icon">
           <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M19 11H7.83l4.88-4.88c.39-.39.39-1.03 0-1.42-.39-.39-1.02-.39-1.41 0l-6.59 6.59c-.39.39-.39 1.02 0 1.41l6.59 6.59c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L7.83 13H19c.55 0 1-.45 1-1s-.45-1-1-1z"/></svg>
         </div>
-        <div class="pagination-single__left-title">vue3.0的Composition-API</div>      
+        <div class="pagination-single__left-title">react不可变数据之immer的使用</div>      
       </a>
     
     <div class="grow"></div>
-    
-      <a href="https://blog.syzh.fun/posts/hxd/react-immer/" class="pagination-single__right">      
-        <div class="pagination-single__right-title">react不可变数据之immer的使用</div>
-        <div class="pagination-single__icon">
-          <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M5 13h11.17l-4.88 4.88c-.39.39-.39 1.03 0 1.42.39.39 1.02.39 1.41 0l6.59-6.59c.39-.39.39-1.02 0-1.41l-6.58-6.6c-.39-.39-1.02-.39-1.41 0-.39.39-.39 1.02 0 1.41L16.17 11H5c-.55 0-1 .45-1 1s.45 1 1 1z"/></svg>
-        </div>
-      </a>
     
   
 </nav>
@@ -2948,26 +3166,7 @@ document.addEventListener('DOMContentLoaded', function () {
           
         </div>
         <div class="toc toc__outer " data-dir="ltr" data-folding="false" data-ani="true">
-          <nav id="TableOfContents">
-  <ul>
-    <li>
-      <ul>
-        <li><a href="#get-started">get started</a></li>
-        <li><a href="#simulate-a-mobile-cpu">simulate a mobile cpu</a></li>
-        <li><a href="#set-up-the-demo">Set up the demo</a></li>
-        <li><a href="#record-runtime-performance">Record runtime performance</a></li>
-        <li><a href="#analyze-the-results">Analyze the results</a>
-          <ul>
-            <li></li>
-          </ul>
-        </li>
-        <li><a href="#bonus-open-the-fps-meter">Bonus: Open the FPS meter</a></li>
-        <li><a href="#find-the-bottleneck">Find the bottleneck</a></li>
-        <li><a href="#bonus-analyze-the-optimized-version">Bonus: Analyze the optimized version</a></li>
-      </ul>
-    </li>
-  </ul>
-</nav>
+          <nav id="TableOfContents"></nav>
         </div>
       
     
