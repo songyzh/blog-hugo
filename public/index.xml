@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 27 Mar 2021 21:55:06 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 May 2021 18:55:06 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
@@ -42,6 +42,40 @@
         
       
 
+      
+      <item>
+        <title>gRPC在web中的简单使用</title>
+        <link>https://blog.syzh.fun/posts/hxd/grpc-web-frontend/</link>
+        <pubDate>Sun, 23 May 2021 18:55:06 +0800</pubDate>
+        
+        <atom:modified>Sun, 23 May 2021 18:55:06 +0800</atom:modified>
+        <guid>https://blog.syzh.fun/posts/hxd/grpc-web-frontend/</guid>
+        <description>gRPC在web中的简单使用 通常我们在web中请求后端数据用的是XMLHttpRequest 或者fetch, 随着前端业务的复杂性增加，还有抽</description>
+        
+        <dc:creator>东</dc:creator>
+        <media:content url="https://blog.syzh.funhttps://tva1.sinaimg.cn/large/008i3skNgy1gqslcasmdrj30g207sq36.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>前端</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>从一道面试题来认识react fiber</title>
