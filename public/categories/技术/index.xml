@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 23 May 2021 18:55:06 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 21:19:06 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
@@ -21,6 +21,40 @@
     
     
 
+      
+      <item>
+        <title>formily 2.0之表单校验</title>
+        <link>https://blog.syzh.fun/posts/hxd/formily-2-check/</link>
+        <pubDate>Sun, 25 Jul 2021 21:19:06 +0800</pubDate>
+        
+        <atom:modified>Sun, 25 Jul 2021 21:19:06 +0800</atom:modified>
+        <guid>https://blog.syzh.fun/posts/hxd/formily-2-check/</guid>
+        <description>formily 2.0之表单校验 前言 表单作为web前端在页面中收集、展示信息的媒介，在web前端领域是不可或缺的一部分，但是由于其使用场景的复杂性，导致表</description>
+        
+        <dc:creator>东</dc:creator>
+        <media:content url="https://blog.syzh.funhttps://tva1.sinaimg.cn/large/008i3skNgy1gstifh6umjj31qi0u0769.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>前端</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>gRPC在web中的简单使用</title>
